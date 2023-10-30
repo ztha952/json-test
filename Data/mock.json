@@ -7,6 +7,5743 @@
         "kanji": "愛想",
         "meaning_mm": "ပျူငှာခြင်း၊ ဖော်ရွေမှု"
     },
+     {
+        "#": "1",
+        "no": "6",
+        "romaji": "aisukurīmu",
+        "kana": "アイスクリーム",
+        "kanji": "icecream",
+        "meaning_mm": "ရေခဲမုန့်"
+    },
+    {
+        "#": "2",
+        "no": "21",
+        "romaji": "au",
+        "kana": "あう",
+        "kanji": "会う",
+        "meaning_mm": "တွေ့ဆုံသည်။"
+    },
+    {
+        "#": "3",
+        "no": "24",
+        "romaji": "ao",
+        "kana": "あお",
+        "kanji": "青",
+        "meaning_mm": "အပြာရောင်"
+    },
+    {
+        "#": "4",
+        "no": "25",
+        "romaji": "aoi",
+        "kana": "あおい",
+        "kanji": "青い",
+        "meaning_mm": "အပြာရောင်ဖြစ်သော၊ ပြာသော"
+    },
+    {
+        "#": "5",
+        "no": "29",
+        "romaji": "aka",
+        "kana": "あか",
+        "kanji": "赤",
+        "meaning_mm": "အနီရောင်"
+    },
+    {
+        "#": "6",
+        "no": "31",
+        "romaji": "akai",
+        "kana": "あかい",
+        "kanji": "赤い",
+        "meaning_mm": "အနီရောင်ဖြစ်သော၊ နီသော"
+    },
+    {
+        "#": "7",
+        "no": "41",
+        "romaji": "akarui",
+        "kana": "あかるい",
+        "kanji": "明るい",
+        "meaning_mm": "လင်းသော"
+    },
+    {
+        "#": "8",
+        "no": "44",
+        "romaji": "aki",
+        "kana": "あき",
+        "kanji": "秋",
+        "meaning_mm": "ဆောင်းဦးပေါက်ရာသီ"
+    },
+    {
+        "#": "9",
+        "no": "53",
+        "romaji": "aku",
+        "kana": "あく",
+        "kanji": "開く",
+        "meaning_mm": "ပွင့်သည်"
+    },
+    {
+        "#": "10",
+        "no": "73",
+        "romaji": "ageru",
+        "kana": "あげる",
+        "kanji": "上げる",
+        "meaning_mm": "မြှင့်သည်"
+    },
+    {
+        "#": "11",
+        "no": "77",
+        "romaji": "ageru",
+        "kana": "あげる",
+        "kanji": "開ける",
+        "meaning_mm": "ဖွင့်သည်။"
+    },
+    {
+        "#": "12",
+        "no": "82",
+        "romaji": "asa",
+        "kana": "あさ",
+        "kanji": "朝",
+        "meaning_mm": "မနက်"
+    },
+    {
+        "#": "13",
+        "no": "86",
+        "romaji": "asagohan",
+        "kana": "あさごはん",
+        "kanji": "朝ご飯",
+        "meaning_mm": "မနက်စာ"
+    },
+    {
+        "#": "14",
+        "no": "87",
+        "romaji": "asatte",
+        "kana": "あさって",
+        "kanji": "",
+        "meaning_mm": "သန်ဘက်ခါ"
+    },
+    {
+        "#": "15",
+        "no": "93",
+        "romaji": "ashi",
+        "kana": "あし",
+        "kanji": "足",
+        "meaning_mm": "ခြေထောက်"
+    },
+    {
+        "#": "16",
+        "no": "101",
+        "romaji": "ashita",
+        "kana": "あした",
+        "kanji": "明日",
+        "meaning_mm": "မနက်ဖြန်"
+    },
+    {
+        "#": "17",
+        "no": "113",
+        "romaji": "asoko",
+        "kana": "あそこ",
+        "kanji": "",
+        "meaning_mm": "ဟိုနေရာ"
+    },
+    {
+        "#": "18",
+        "no": "115",
+        "romaji": "asobu",
+        "kana": "あそぶ",
+        "kanji": "遊ぶ",
+        "meaning_mm": "ကစားသည်"
+    },
+    {
+        "#": "19",
+        "no": "120",
+        "romaji": "atatakai",
+        "kana": "あたたかい",
+        "kanji": "暖かい／温かい",
+        "meaning_mm": "နွေးသော"
+    },
+    {
+        "#": "20",
+        "no": "123",
+        "romaji": "atama",
+        "kana": "あたま",
+        "kanji": "頭",
+        "meaning_mm": "ဦးခေါင်း"
+    },
+    {
+        "#": "21",
+        "no": "124",
+        "romaji": "atarashii",
+        "kana": "あたらしい",
+        "kanji": "新しい",
+        "meaning_mm": "သစ်သော"
+    },
+    {
+        "#": "22",
+        "no": "131",
+        "romaji": "achira",
+        "kana": "あちら",
+        "kanji": "",
+        "meaning_mm": "ဟိုးဘက်"
+    },
+    {
+        "#": "23",
+        "no": "133",
+        "romaji": "atsui",
+        "kana": "あつい",
+        "kanji": "暑い",
+        "meaning_mm": "ပူသော (ရာသီဥတု)"
+    },
+    {
+        "#": "24",
+        "no": "134",
+        "romaji": "atsui",
+        "kana": "あつい",
+        "kanji": "熱い",
+        "meaning_mm": "ပူသော (အရာဝတ္ထု)"
+    },
+    {
+        "#": "25",
+        "no": "135",
+        "romaji": "atsui",
+        "kana": "あつい",
+        "kanji": "厚い",
+        "meaning_mm": "ထူသော"
+    },
+    {
+        "#": "26",
+        "no": "160",
+        "romaji": "ato(de)",
+        "kana": "あと（で）",
+        "kanji": "後（で）",
+        "meaning_mm": "နောက်လာမဲ့"
+    },
+    {
+        "#": "27",
+        "no": "169",
+        "romaji": "anata",
+        "kana": "あなた",
+        "kanji": "貴方",
+        "meaning_mm": "သင်"
+    },
+    {
+        "#": "28",
+        "no": "170",
+        "romaji": "ani",
+        "kana": "あに",
+        "kanji": "兄",
+        "meaning_mm": "အစ်ကို"
+    },
+    {
+        "#": "29",
+        "no": "172",
+        "romaji": "ane",
+        "kana": "あね",
+        "kanji": "姉",
+        "meaning_mm": "အစ်မ"
+    },
+    {
+        "#": "30",
+        "no": "173",
+        "romaji": "ano",
+        "kana": "あの",
+        "kanji": "",
+        "meaning_mm": "ဟို"
+    },
+    {
+        "#": "31",
+        "no": "174",
+        "romaji": "apāto",
+        "kana": "アパート",
+        "kanji": "apartment",
+        "meaning_mm": "တိုက်ခန်း"
+    },
+    {
+        "#": "32",
+        "no": "177",
+        "romaji": "abiru",
+        "kana": "みずをあびる",
+        "kanji": "（水）を浴びる",
+        "meaning_mm": "ရေချိုးသည်။ ခံရသည်"
+    },
+    {
+        "#": "33",
+        "no": "178",
+        "romaji": "abunai",
+        "kana": "あぶない",
+        "kanji": "危ない",
+        "meaning_mm": "အန္တရာယ်ရှိသော"
+    },
+    {
+        "#": "34",
+        "no": "186",
+        "romaji": "amai",
+        "kana": "あまい",
+        "kanji": "甘い",
+        "meaning_mm": "ချိုသော၊ ပြင်းထန်သော၊ အလိုလိုက်သော၊ မတင်းကြပ်သော"
+    },
+    {
+        "#": "35",
+        "no": "196",
+        "romaji": "amari",
+        "kana": "あまり",
+        "kanji": "",
+        "meaning_mm": "သိပ်ပြီးတော့"
+    },
+    {
+        "#": "36",
+        "no": "202",
+        "romaji": "ame",
+        "kana": "あめ",
+        "kanji": "飴",
+        "meaning_mm": "သကြားလုံး"
+    },
+    {
+        "#": "37",
+        "no": "203",
+        "romaji": "ame",
+        "kana": "あめ",
+        "kanji": "雨",
+        "meaning_mm": "မိုး"
+    },
+    {
+        "#": "38",
+        "no": "219",
+        "romaji": "arau",
+        "kana": "あらう",
+        "kanji": "洗う",
+        "meaning_mm": "ဆေးကြောသည်"
+    },
+    {
+        "#": "39",
+        "no": "249",
+        "romaji": "aru",
+        "kana": "ある",
+        "kanji": "在る／有る",
+        "meaning_mm": "ရှိသည်"
+    },
+    {
+        "#": "40",
+        "no": "252",
+        "romaji": "aruku",
+        "kana": "あるく",
+        "kanji": "歩く",
+        "meaning_mm": "လမ်းလျှောက်သည်"
+    },
+    {
+        "#": "41",
+        "no": "257",
+        "romaji": "are",
+        "kana": "あれ",
+        "kanji": "",
+        "meaning_mm": "ဟို"
+    },
+    {
+        "#": "42",
+        "no": "297",
+        "romaji": "iie",
+        "kana": "いいえ",
+        "kanji": "",
+        "meaning_mm": "မဟုတ်ပါ"
+    },
+    {
+        "#": "43",
+        "no": "307",
+        "romaji": "iu",
+        "kana": "いう",
+        "kanji": "言う",
+        "meaning_mm": "ပြောသည်"
+    },
+    {
+        "#": "44",
+        "no": "315",
+        "romaji": "ikaga",
+        "kana": "いかが",
+        "kanji": "",
+        "meaning_mm": "ဘယ်လို"
+    },
+    {
+        "#": "45",
+        "no": "339",
+        "romaji": "igirisu",
+        "kana": "イギリス",
+        "kanji": "England",
+        "meaning_mm": "အင်္ဂလန်"
+    },
+    {
+        "#": "46",
+        "no": "342",
+        "romaji": "iku/yuku",
+        "kana": "いく／ゆく",
+        "kanji": "行く",
+        "meaning_mm": "သွားသည်"
+    },
+    {
+        "#": "47",
+        "no": "348",
+        "romaji": "ikutsu",
+        "kana": "いくつ",
+        "kanji": "幾つ",
+        "meaning_mm": "ဘယ်နှစ်ခု"
+    },
+    {
+        "#": "48",
+        "no": "350",
+        "romaji": "ikura",
+        "kana": "いくら",
+        "kanji": "",
+        "meaning_mm": "ဘယ်လောက်"
+    },
+    {
+        "#": "49",
+        "no": "351",
+        "romaji": "ike",
+        "kana": "いけ",
+        "kanji": "池",
+        "meaning_mm": "ရေကန်၊ရေအိုင်"
+    },
+    {
+        "#": "50",
+        "no": "375",
+        "romaji": "isha",
+        "kana": "いしゃ",
+        "kanji": "医者",
+        "meaning_mm": "ဆရာဝန်"
+    },
+    {
+        "#": "51",
+        "no": "384",
+        "romaji": "isu",
+        "kana": "いす",
+        "kanji": "椅子",
+        "meaning_mm": "ကုလားထိုင်"
+    },
+    {
+        "#": "52",
+        "no": "396",
+        "romaji": "itai",
+        "kana": "いたい",
+        "kanji": "痛い",
+        "meaning_mm": "နာကျင်သော"
+    },
+    {
+        "#": "53",
+        "no": "403",
+        "romaji": "itadakimasu",
+        "kana": "いただきます",
+        "kanji": "",
+        "meaning_mm": "စားပါတော့မယ်"
+    },
+    {
+        "#": "54",
+        "no": "415",
+        "romaji": "ichi",
+        "kana": "いち",
+        "kanji": "一",
+        "meaning_mm": "တစ်"
+    },
+    {
+        "#": "55",
+        "no": "421",
+        "romaji": "ichigo",
+        "kana": "いちご",
+        "kanji": "苺",
+        "meaning_mm": "စတော်ဗယ်ရီသီး"
+    },
+    {
+        "#": "56",
+        "no": "428",
+        "romaji": "ichinichi",
+        "kana": "いちにち",
+        "kanji": "一日",
+        "meaning_mm": "တစ်ရက်"
+    },
+    {
+        "#": "57",
+        "no": "430",
+        "romaji": "ichiban",
+        "kana": "いちばん",
+        "kanji": "一番",
+        "meaning_mm": "နံပါတ်တစ်"
+    },
+    {
+        "#": "58",
+        "no": "443",
+        "romaji": "itsu",
+        "kana": "いつ",
+        "kanji": "",
+        "meaning_mm": "ဘယ်တော့၊ဘယ်တုန်းက"
+    },
+    {
+        "#": "59",
+        "no": "445",
+        "romaji": "itsuka",
+        "kana": "いつか",
+        "kanji": "五日",
+        "meaning_mm": "ငါးရက်"
+    },
+    {
+        "#": "60",
+        "no": "460",
+        "romaji": "issho(ni)",
+        "kana": "いっしょ（に）",
+        "kanji": "一緒（に）",
+        "meaning_mm": "အတူတကွ"
+    },
+    {
+        "#": "61",
+        "no": "473",
+        "romaji": "itsutsu",
+        "kana": "いつつ",
+        "kanji": "五つ",
+        "meaning_mm": "ငါးခု"
+    },
+    {
+        "#": "62",
+        "no": "477",
+        "romaji": "itsudemo",
+        "kana": "いつでも",
+        "kanji": "",
+        "meaning_mm": "ဘယ်အချိန်ဘဲဖြစ်ဖြစ်၊ အချိန်မရွေး"
+    },
+    {
+        "#": "63",
+        "no": "489",
+        "romaji": "itsumo",
+        "kana": "いつも",
+        "kanji": "",
+        "meaning_mm": "အမြဲတမ်း"
+    },
+    {
+        "#": "64",
+        "no": "508",
+        "romaji": "inu",
+        "kana": "いぬ",
+        "kanji": "犬",
+        "meaning_mm": "ခွေး"
+    },
+    {
+        "#": "65",
+        "no": "521",
+        "romaji": "ima",
+        "kana": "いま",
+        "kanji": "今",
+        "meaning_mm": "အခု"
+    },
+    {
+        "#": "66",
+        "no": "529",
+        "romaji": "imi",
+        "kana": "いみ",
+        "kanji": "意味",
+        "meaning_mm": "အဓိပ္ပါယ်"
+    },
+    {
+        "#": "67",
+        "no": "532",
+        "romaji": "imōto",
+        "kana": "いもうと",
+        "kanji": "妹",
+        "meaning_mm": "ညီမ"
+    },
+    {
+        "#": "68",
+        "no": "533",
+        "romaji": "iya(na)",
+        "kana": "いや（な）",
+        "kanji": "嫌な",
+        "meaning_mm": "မကြိုက်မနှစ်သက်သော"
+    },
+    {
+        "#": "69",
+        "no": "546",
+        "romaji": "irasshai",
+        "kana": "いらっしゃい",
+        "kanji": "",
+        "meaning_mm": "ကြိုဆိုပါသည်(ယဉ်ကျေးပုံစံ)"
+    },
+    {
+        "#": "70",
+        "no": "548",
+        "romaji": "iriguchi",
+        "kana": "いりぐち",
+        "kanji": "入口",
+        "meaning_mm": "ဝင်ပေါက်"
+    },
+    {
+        "#": "71",
+        "no": "554",
+        "romaji": "iru",
+        "kana": "いる",
+        "kanji": "居る",
+        "meaning_mm": "ရှိသည်၊နေသည်"
+    },
+    {
+        "#": "72",
+        "no": "557",
+        "romaji": "ireru",
+        "kana": "いれる",
+        "kanji": "入れる",
+        "meaning_mm": "ထည့်သည်"
+    },
+    {
+        "#": "73",
+        "no": "558",
+        "romaji": "iro",
+        "kana": "いろ",
+        "kanji": "色",
+        "meaning_mm": "အရောင်"
+    },
+    {
+        "#": "74",
+        "no": "559",
+        "romaji": "iroiro(na)",
+        "kana": "いろいろ（な）",
+        "kanji": "色々な",
+        "meaning_mm": "အမျိုးမျိုးသော"
+    },
+    {
+        "#": "75",
+        "no": "599",
+        "romaji": "ue",
+        "kana": "うえ",
+        "kanji": "上",
+        "meaning_mm": "အပေါ်"
+    },
+    {
+        "#": "76",
+        "no": "629",
+        "romaji": "ushi",
+        "kana": "うし",
+        "kanji": "牛",
+        "meaning_mm": "နွား"
+    },
+    {
+        "#": "77",
+        "no": "631",
+        "romaji": "ushiro",
+        "kana": "うしろ",
+        "kanji": "後ろ",
+        "meaning_mm": "နောက်"
+    },
+    {
+        "#": "78",
+        "no": "634",
+        "romaji": "usui",
+        "kana": "うすい",
+        "kanji": "薄い",
+        "meaning_mm": "ပါးသော၊ မှိန်သော"
+    },
+    {
+        "#": "79",
+        "no": "641",
+        "romaji": "uta",
+        "kana": "うた",
+        "kanji": "歌",
+        "meaning_mm": "သီချင်း"
+    },
+    {
+        "#": "80",
+        "no": "642",
+        "romaji": "utau",
+        "kana": "うたう",
+        "kanji": "歌う",
+        "meaning_mm": "သီချင်းဆိုသည်"
+    },
+    {
+        "#": "81",
+        "no": "646",
+        "romaji": "uchi",
+        "kana": "うち",
+        "kanji": "家",
+        "meaning_mm": "အိမ်"
+    },
+    {
+        "#": "82",
+        "no": "693",
+        "romaji": "umareru",
+        "kana": "うまれる",
+        "kanji": "生まれる",
+        "meaning_mm": "မွေးဖွားသည်"
+    },
+    {
+        "#": "83",
+        "no": "694",
+        "romaji": "umi",
+        "kana": "うみ",
+        "kanji": "海",
+        "meaning_mm": "ပင်လယ်"
+    },
+    {
+        "#": "84",
+        "no": "723",
+        "romaji": "uru",
+        "kana": "うる",
+        "kanji": "売る",
+        "meaning_mm": "ရောင်းသည်"
+    },
+    {
+        "#": "85",
+        "no": "725",
+        "romaji": "urusai",
+        "kana": "うるさい",
+        "kanji": "",
+        "meaning_mm": "ဆူညံသော၊ နားငြီးသော၊ ဇီဇာကြောင်သော၊ချီးများသော"
+    },
+    {
+        "#": "86",
+        "no": "730",
+        "romaji": "uwagi",
+        "kana": "うわぎ",
+        "kanji": "上着",
+        "meaning_mm": "အပေါ်အင်္ကျီ"
+    },
+    {
+        "#": "87",
+        "no": "753",
+        "romaji": "e",
+        "kana": "え",
+        "kanji": "絵",
+        "meaning_mm": "ပန်းချီကား"
+    },
+    {
+        "#": "88",
+        "no": "758",
+        "romaji": "eiga",
+        "kana": "えいが",
+        "kanji": "映画",
+        "meaning_mm": "ရုပ်ရှင်"
+    },
+    {
+        "#": "89",
+        "no": "759",
+        "romaji": "eigakan",
+        "kana": "えいがかん",
+        "kanji": "映画館",
+        "meaning_mm": "ရုပ်ရှင်ရုံ"
+    },
+    {
+        "#": "90",
+        "no": "764",
+        "romaji": "eigo",
+        "kana": "えいご",
+        "kanji": "英語",
+        "meaning_mm": "အင်္ဂလိပ်စကား"
+    },
+    {
+        "#": "91",
+        "no": "778",
+        "romaji": "eki",
+        "kana": "えき",
+        "kanji": "駅",
+        "meaning_mm": "ဘူတာရုံ"
+    },
+    {
+        "#": "92",
+        "no": "805",
+        "romaji": "~en",
+        "kana": "～えん",
+        "kanji": "～円",
+        "meaning_mm": "ယန်း"
+    },
+    {
+        "#": "93",
+        "no": "845",
+        "romaji": "oishii",
+        "kana": "おいしい",
+        "kanji": "美味しい",
+        "meaning_mm": "အရသာရှိသော"
+    },
+    {
+        "#": "94",
+        "no": "883",
+        "romaji": "ōi",
+        "kana": "おおい",
+        "kanji": "多い",
+        "meaning_mm": "များပြားသော"
+    },
+    {
+        "#": "95",
+        "no": "890",
+        "romaji": "ōki(na)",
+        "kana": "おおき（な）",
+        "kanji": "大き　（な）",
+        "meaning_mm": "ကြီးသော"
+    },
+    {
+        "#": "96",
+        "no": "891",
+        "romaji": "ōkii",
+        "kana": "おおきい",
+        "kanji": "大きい",
+        "meaning_mm": "ကြီးသော"
+    },
+    {
+        "#": "97",
+        "no": "899",
+        "romaji": "ōzei",
+        "kana": "おおぜい",
+        "kanji": "大勢",
+        "meaning_mm": "များပြားသော(လူများပြားသော)"
+    },
+    {
+        "#": "98",
+        "no": "919",
+        "romaji": "okāsan",
+        "kana": "おかあさん",
+        "kanji": "お母さん",
+        "meaning_mm": "အမေ"
+    },
+    {
+        "#": "99",
+        "no": "921",
+        "romaji": "okaerinasai",
+        "kana": "おかえりなさい",
+        "kanji": "お帰りなさい",
+        "meaning_mm": "ပြန်လာတာကိုကြိုဆိုပါတယ်"
+    },
+    {
+        "#": "100",
+        "no": "925",
+        "romaji": "okashi",
+        "kana": "おかし",
+        "kanji": "お菓子",
+        "meaning_mm": "မုန့်"
+    },
+    {
+        "#": "101",
+        "no": "930",
+        "romaji": "okane",
+        "kana": "おかね",
+        "kanji": "お金",
+        "meaning_mm": "ငွေ"
+    },
+    {
+        "#": "102",
+        "no": "939",
+        "romaji": "okiru",
+        "kana": "おきる",
+        "kanji": "起きる",
+        "meaning_mm": "အိပ်ရာထသည်"
+    },
+    {
+        "#": "103",
+        "no": "944",
+        "romaji": "okusan",
+        "kana": "おくさん",
+        "kanji": "奥さん",
+        "meaning_mm": "ဇနီးသည်"
+    },
+    {
+        "#": "104",
+        "no": "956",
+        "romaji": "ogenkide",
+        "kana": "おげんきで",
+        "kanji": "お元気で",
+        "meaning_mm": "ကျန်းမာပါစေ"
+    },
+    {
+        "#": "105",
+        "no": "957",
+        "romaji": "ogenkidesuka",
+        "kana": "おげんきですか",
+        "kanji": "お元気ですか",
+        "meaning_mm": "နေကောင်းလား"
+    },
+    {
+        "#": "106",
+        "no": "970",
+        "romaji": "osake",
+        "kana": "おさけ",
+        "kanji": "お酒",
+        "meaning_mm": "အရက်"
+    },
+    {
+        "#": "107",
+        "no": "979",
+        "romaji": "osara",
+        "kana": "おさら",
+        "kanji": "お皿",
+        "meaning_mm": "ပန်းကန်ပြား"
+    },
+    {
+        "#": "108",
+        "no": "981",
+        "romaji": "oji",
+        "kana": "おじ",
+        "kanji": "叔父／伯父",
+        "meaning_mm": "ဦးလေး၊ ဘကြီး"
+    },
+    {
+        "#": "109",
+        "no": "983",
+        "romaji": "ojīsan",
+        "kana": "おじいさん",
+        "kanji": "お爺さん",
+        "meaning_mm": "အဖိုး"
+    },
+    {
+        "#": "110",
+        "no": "987",
+        "romaji": "oshieru",
+        "kana": "おしえる",
+        "kanji": "教える",
+        "meaning_mm": "သင်ကြားသည်"
+    },
+    {
+        "#": "111",
+        "no": "1007",
+        "romaji": "osoi",
+        "kana": "おそい",
+        "kanji": "遅い",
+        "meaning_mm": "နောက်ကျသော"
+    },
+    {
+        "#": "112",
+        "no": "1029",
+        "romaji": "ocha",
+        "kana": "おちゃ",
+        "kanji": "お茶",
+        "meaning_mm": "လက်ဘက်ရည်"
+    },
+    {
+        "#": "113",
+        "no": "1035",
+        "romaji": "otto",
+        "kana": "おっと",
+        "kanji": "夫",
+        "meaning_mm": "ခင်ပွန်း"
+    },
+    {
+        "#": "114",
+        "no": "1038",
+        "romaji": "atearai",
+        "kana": "あてあらい",
+        "kanji": "お手洗い",
+        "meaning_mm": "အိမ်သာ"
+    },
+    {
+        "#": "115",
+        "no": "1042",
+        "romaji": "otōsan",
+        "kana": "おとうさん",
+        "kanji": "お父さん",
+        "meaning_mm": "အဖေ"
+    },
+    {
+        "#": "116",
+        "no": "1043",
+        "romaji": "otouto",
+        "kana": "おとうと",
+        "kanji": "弟",
+        "meaning_mm": "ညီလေး"
+    },
+    {
+        "#": "117",
+        "no": "1046",
+        "romaji": "otoko",
+        "kana": "おとこ",
+        "kanji": "男",
+        "meaning_mm": "ယောက်ျား၊ အမျိုးသား"
+    },
+    {
+        "#": "118",
+        "no": "1047",
+        "romaji": "otokonoko",
+        "kana": "おとこのこ",
+        "kanji": "男の子",
+        "meaning_mm": "ယောက်ျားလေး"
+    },
+    {
+        "#": "119",
+        "no": "1048",
+        "romaji": "otokonohito",
+        "kana": "おとこのひと",
+        "kanji": "男の人",
+        "meaning_mm": "အမျိုးသား"
+    },
+    {
+        "#": "120",
+        "no": "1054",
+        "romaji": "ototoi",
+        "kana": "おととい",
+        "kanji": "一昨日",
+        "meaning_mm": "တနေ့က"
+    },
+    {
+        "#": "121",
+        "no": "1055",
+        "romaji": "ototoshi",
+        "kana": "おととし",
+        "kanji": "一昨年",
+        "meaning_mm": "တနှစ်က"
+    },
+    {
+        "#": "122",
+        "no": "1056",
+        "romaji": "otona",
+        "kana": "おとな",
+        "kanji": "大人",
+        "meaning_mm": "လူကြီး"
+    },
+    {
+        "#": "123",
+        "no": "1068",
+        "romaji": "onaka",
+        "kana": "おなか",
+        "kanji": "お腹",
+        "meaning_mm": "ဗိုက်၊ဝမ်းဗိုက်"
+    },
+    {
+        "#": "124",
+        "no": "1069",
+        "romaji": "onaji",
+        "kana": "おなじ",
+        "kanji": "同じ",
+        "meaning_mm": "အတူတူ"
+    },
+    {
+        "#": "125",
+        "no": "1071",
+        "romaji": "onīsan",
+        "kana": "おにいさん",
+        "kanji": "お兄さん",
+        "meaning_mm": "အကို"
+    },
+    {
+        "#": "126",
+        "no": "1072",
+        "romaji": "onēsan",
+        "kana": "おねえさん",
+        "kanji": "お姉さん",
+        "meaning_mm": "အမ"
+    },
+    {
+        "#": "127",
+        "no": "1073",
+        "romaji": "onegaishimasu.",
+        "kana": "おねがいします。",
+        "kanji": "お願いします",
+        "meaning_mm": "မေတ္တာရပ်ခံသည်"
+    },
+    {
+        "#": "128",
+        "no": "1076",
+        "romaji": "oba",
+        "kana": "おば",
+        "kanji": "叔母／伯母",
+        "meaning_mm": "အဒေါ်"
+    },
+    {
+        "#": "129",
+        "no": "1077",
+        "romaji": "obāsan",
+        "kana": "おばあさん",
+        "kanji": "お婆さん",
+        "meaning_mm": "အဖွား"
+    },
+    {
+        "#": "130",
+        "no": "1079",
+        "romaji": "ohayōgozaimasu",
+        "kana": "おはようございます",
+        "kanji": "",
+        "meaning_mm": "မင်္ဂလာမနက်ခင်းပါ"
+    },
+    {
+        "#": "131",
+        "no": "1089",
+        "romaji": "oboeru",
+        "kana": "おぼえる",
+        "kanji": "覚える",
+        "meaning_mm": "မှတ်မိသည်၊မှတ်သားသည်၊ခံစားသည်"
+    },
+    {
+        "#": "132",
+        "no": "1100",
+        "romaji": "omawarisan",
+        "kana": "おまわりさん",
+        "kanji": "お巡りさん",
+        "meaning_mm": "ပုလိပ် ၊ ရဲ"
+    },
+    {
+        "#": "133",
+        "no": "1111",
+        "romaji": "omoi",
+        "kana": "おもい",
+        "kanji": "重い",
+        "meaning_mm": "လေးသော"
+    },
+    {
+        "#": "134",
+        "no": "1122",
+        "romaji": "omoshiroi",
+        "kana": "おもしろい",
+        "kanji": "面白い",
+        "meaning_mm": "စိတ်ဝင်စားစရာကောင်းသော"
+    },
+    {
+        "#": "135",
+        "no": "1135",
+        "romaji": "oyasumi(nasai)",
+        "kana": "おやすみ（なさい）",
+        "kanji": "",
+        "meaning_mm": "မင်္ဂလာညချမ်းပါ၊အိပ်ပါတော့မယ်နော်"
+    },
+    {
+        "#": "136",
+        "no": "1139",
+        "romaji": "oyogu",
+        "kana": "およぐ",
+        "kanji": "泳ぐ",
+        "meaning_mm": "ရေကူးသည်"
+    },
+    {
+        "#": "137",
+        "no": "1153",
+        "romaji": "oriru",
+        "kana": "おりる",
+        "kanji": "降りる",
+        "meaning_mm": "ဆင်းသည်"
+    },
+    {
+        "#": "138",
+        "no": "1163",
+        "romaji": "orenji",
+        "kana": "オレンジ",
+        "kanji": "orange",
+        "meaning_mm": "လိမ္မော်သီး"
+    },
+    {
+        "#": "139",
+        "no": "1170",
+        "romaji": "owaru",
+        "kana": "おわる",
+        "kanji": "終わる",
+        "meaning_mm": "ပြီးဆုံးသည်"
+    },
+    {
+        "#": "140",
+        "no": "1173",
+        "romaji": "ongaku",
+        "kana": "おんがく",
+        "kanji": "音楽",
+        "meaning_mm": "ဂီတ"
+    },
+    {
+        "#": "141",
+        "no": "1184",
+        "romaji": "onna",
+        "kana": "おんな",
+        "kanji": "女",
+        "meaning_mm": "အမျိုးသမီး၊မိန်းမ"
+    },
+    {
+        "#": "142",
+        "no": "1185",
+        "romaji": "onnanoko",
+        "kana": "おんなのこ",
+        "kanji": "女の子",
+        "meaning_mm": "မိန်းခလေး"
+    },
+    {
+        "#": "143",
+        "no": "1186",
+        "romaji": "onnanohito",
+        "kana": "おんなのひと",
+        "kanji": "女の人",
+        "meaning_mm": "အမျိုးသမီး"
+    },
+    {
+        "#": "144",
+        "no": "1205",
+        "romaji": "~kai",
+        "kana": "～かい",
+        "kanji": "回",
+        "meaning_mm": "အကြိမ်"
+    },
+    {
+        "#": "145",
+        "no": "1235",
+        "romaji": "gaikoku",
+        "kana": "がいこく",
+        "kanji": "外国",
+        "meaning_mm": "နိုင်ငံခြား"
+    },
+    {
+        "#": "146",
+        "no": "1236",
+        "romaji": "gaikokujin",
+        "kana": "がいこくじん",
+        "kanji": "外国人",
+        "meaning_mm": "နိုင်ငံခြားသား"
+    },
+    {
+        "#": "147",
+        "no": "1244",
+        "romaji": "kaisha",
+        "kana": "かいしゃ",
+        "kanji": "会社",
+        "meaning_mm": "ကုမ္ပဏီ"
+    },
+    {
+        "#": "148",
+        "no": "1270",
+        "romaji": "kaidan",
+        "kana": "かいだん",
+        "kanji": "階段",
+        "meaning_mm": "လှေကား"
+    },
+    {
+        "#": "149",
+        "no": "1304",
+        "romaji": "kaimono",
+        "kana": "かいもの",
+        "kanji": "買い物",
+        "meaning_mm": "ဈေးဝယ်ခြင်း"
+    },
+    {
+        "#": "150",
+        "no": "1320",
+        "romaji": "kau",
+        "kana": "かう",
+        "kanji": "買う",
+        "meaning_mm": "ဝယ်သည်"
+    },
+    {
+        "#": "151",
+        "no": "1325",
+        "romaji": "kaesu",
+        "kana": "かえす",
+        "kanji": "返す",
+        "meaning_mm": "ပြန်ပေးသည်"
+    },
+    {
+        "#": "152",
+        "no": "1331",
+        "romaji": "kaeru",
+        "kana": "かえる",
+        "kanji": "帰る",
+        "meaning_mm": "ပြန်သည်"
+    },
+    {
+        "#": "153",
+        "no": "1334",
+        "romaji": "kao",
+        "kana": "かお",
+        "kanji": "顔",
+        "meaning_mm": "မျက်နှာ"
+    },
+    {
+        "#": "154",
+        "no": "1353",
+        "romaji": "kakaru(jikanga)",
+        "kana": "かかる（じかんが）",
+        "kanji": "かかる　（時間が）",
+        "meaning_mm": "အချိန်ကြာသည်"
+    },
+    {
+        "#": "155",
+        "no": "1357",
+        "romaji": "kagi",
+        "kana": "かぎ",
+        "kanji": "鍵",
+        "meaning_mm": "သော့"
+    },
+    {
+        "#": "156",
+        "no": "1372",
+        "romaji": "kaku",
+        "kana": "かく",
+        "kanji": "書く",
+        "meaning_mm": "ရေးသည်"
+    },
+    {
+        "#": "157",
+        "no": "1398",
+        "romaji": "gakusei",
+        "kana": "がくせい",
+        "kanji": "学生",
+        "meaning_mm": "ကျောင်းသား"
+    },
+    {
+        "#": "158",
+        "no": "1446",
+        "romaji": "kakeru (denwao)",
+        "kana": "かける　（でんわを）",
+        "kanji": "",
+        "meaning_mm": "ဖုန်းဆက်သည်"
+    },
+    {
+        "#": "159",
+        "no": "1447",
+        "romaji": "kakeru (meganeo)",
+        "kana": "かける　（めがねを）",
+        "kanji": "",
+        "meaning_mm": "မျက်မှန်တပ်သည်"
+    },
+    {
+        "#": "160",
+        "no": "1457",
+        "romaji": "kasa",
+        "kana": "かさ",
+        "kanji": "傘",
+        "meaning_mm": "ထီး"
+    },
+    {
+        "#": "161",
+        "no": "1489",
+        "romaji": "kasu",
+        "kana": "かす",
+        "kanji": "貸す",
+        "meaning_mm": "ချေးငှားသည်"
+    },
+    {
+        "#": "162",
+        "no": "1498",
+        "romaji": "kaze",
+        "kana": "かぜ",
+        "kanji": "風",
+        "meaning_mm": "လေ"
+    },
+    {
+        "#": "163",
+        "no": "1499",
+        "romaji": "kaze",
+        "kana": "かぜ",
+        "kanji": "風邪",
+        "meaning_mm": "အအေးမိခြင်း"
+    },
+    {
+        "#": "164",
+        "no": "1513",
+        "romaji": "kazoku",
+        "kana": "かぞく",
+        "kanji": "家族",
+        "meaning_mm": "မိသားစု"
+    },
+    {
+        "#": "165",
+        "no": "1523",
+        "romaji": "kata",
+        "kana": "かた",
+        "kanji": "方",
+        "meaning_mm": "ပုဂ္ဂိုလ်"
+    },
+    {
+        "#": "166",
+        "no": "1570",
+        "romaji": "gatsukō",
+        "kana": "がっこう",
+        "kanji": "学校",
+        "meaning_mm": "ကျောင်း"
+    },
+    {
+        "#": "167",
+        "no": "1587",
+        "romaji": "kappu",
+        "kana": "カップ",
+        "kanji": "cup",
+        "meaning_mm": "ခွက် ၊ ချိန်ခွက် ၊ ဖလား"
+    },
+    {
+        "#": "168",
+        "no": "1592",
+        "romaji": "katei",
+        "kana": "かてい",
+        "kanji": "家庭",
+        "meaning_mm": "အိမ်ထောင်"
+    },
+    {
+        "#": "169",
+        "no": "1599",
+        "romaji": "kado",
+        "kana": "かど",
+        "kanji": "角",
+        "meaning_mm": "ထောင့်"
+    },
+    {
+        "#": "170",
+        "no": "1629",
+        "romaji": "kaban",
+        "kana": "かばん",
+        "kanji": "",
+        "meaning_mm": "အိတ်"
+    },
+    {
+        "#": "171",
+        "no": "1632",
+        "romaji": "kabin",
+        "kana": "かびん",
+        "kanji": "花瓶",
+        "meaning_mm": "ပန်းအိုး"
+    },
+    {
+        "#": "172",
+        "no": "1637",
+        "romaji": "kaburu(boushio)",
+        "kana": "かぶる（ぼうしを）",
+        "kanji": "被る（帽子を）",
+        "meaning_mm": "(ဦးထုပ်)ဆောင်းသည်"
+    },
+    {
+        "#": "173",
+        "no": "1650",
+        "romaji": "kami",
+        "kana": "かみ",
+        "kanji": "紙",
+        "meaning_mm": "စက္ကူ"
+    },
+    {
+        "#": "174",
+        "no": "1665",
+        "romaji": "kamera",
+        "kana": "カメラ",
+        "kanji": "camera",
+        "meaning_mm": "ကင်မရာ"
+    },
+    {
+        "#": "175",
+        "no": "1676",
+        "romaji": "kayoubi",
+        "kana": "かようび",
+        "kanji": "火曜日",
+        "meaning_mm": "အင်္ဂါနေ့"
+    },
+    {
+        "#": "176",
+        "no": "1682",
+        "romaji": "karai",
+        "kana": "からい",
+        "kanji": "辛い",
+        "meaning_mm": "စပ်သော"
+    },
+    {
+        "#": "177",
+        "no": "1690",
+        "romaji": "karada",
+        "kana": "からだ",
+        "kanji": "体",
+        "meaning_mm": "ကိုယ်ခန္ဓာ"
+    },
+    {
+        "#": "178",
+        "no": "1702",
+        "romaji": "kariru",
+        "kana": "かりる",
+        "kanji": "借りる",
+        "meaning_mm": "ချေးငှားသည်"
+    },
+    {
+        "#": "179",
+        "no": "1704",
+        "romaji": "karui",
+        "kana": "かるい",
+        "kanji": "軽い",
+        "meaning_mm": "ပေါ့ပါးသော"
+    },
+    {
+        "#": "180",
+        "no": "1709",
+        "romaji": "karē(karēraisu)",
+        "kana": "カレー（カレーライス）",
+        "kanji": "curry and rice",
+        "meaning_mm": "ကာလီဟင်းထမင်း၊မဆလာဟင်းနှင့်ထမင်း"
+    },
+    {
+        "#": "181",
+        "no": "1713",
+        "romaji": "karendā",
+        "kana": "カレンダー",
+        "kanji": "calendar",
+        "meaning_mm": "ပြက္ခဒိန်"
+    },
+    {
+        "#": "182",
+        "no": "1719",
+        "romaji": "~gawa",
+        "kana": "～がわ",
+        "kanji": "～側",
+        "meaning_mm": "… ဖက်"
+    },
+    {
+        "#": "183",
+        "no": "1720",
+        "romaji": "kawaii",
+        "kana": "かわいい",
+        "kanji": "",
+        "meaning_mm": "ချစ်စရာကောင်းသော"
+    },
+    {
+        "#": "184",
+        "no": "1776",
+        "romaji": "kanji",
+        "kana": "かんじ",
+        "kanji": "漢字",
+        "meaning_mm": "ခန်ဂျီး၊တရုတ်အက္ခရာ"
+    },
+    {
+        "#": "185",
+        "no": "1861",
+        "romaji": "ki",
+        "kana": "き",
+        "kanji": "木",
+        "meaning_mm": "သစ်ပင်"
+    },
+    {
+        "#": "186",
+        "no": "1866",
+        "romaji": "kiiro",
+        "kana": "きいろ",
+        "kanji": "黄色",
+        "meaning_mm": "အဝါရောင်"
+    },
+    {
+        "#": "187",
+        "no": "1867",
+        "romaji": "kiiroi",
+        "kana": "きいろい",
+        "kanji": "黄色い",
+        "meaning_mm": "အဝါရောင်၊ဝါသော"
+    },
+    {
+        "#": "188",
+        "no": "1869",
+        "romaji": "kieru",
+        "kana": "きえる",
+        "kanji": "消える",
+        "meaning_mm": "မီးငြိမ်းသည်၊ပျောက်ကွယ်သည်"
+    },
+    {
+        "#": "189",
+        "no": "1904",
+        "romaji": "kiku",
+        "kana": "きく",
+        "kanji": "聞く",
+        "meaning_mm": "နားထောင်သည်"
+    },
+    {
+        "#": "190",
+        "no": "1967",
+        "romaji": "kita",
+        "kana": "きた",
+        "kanji": "北",
+        "meaning_mm": "မြောက်ဘက်အရပ်"
+    },
+    {
+        "#": "191",
+        "no": "1968",
+        "romaji": "gitā",
+        "kana": "ギター",
+        "kanji": "guitar",
+        "meaning_mm": "ဂီတာ"
+    },
+    {
+        "#": "192",
+        "no": "1976",
+        "romaji": "kitanai",
+        "kana": "きたない",
+        "kanji": "汚い",
+        "meaning_mm": "ညစ်ပတ်သော"
+    },
+    {
+        "#": "193",
+        "no": "1990",
+        "romaji": "kitsusaten",
+        "kana": "きっさてん",
+        "kanji": "喫茶店",
+        "meaning_mm": "လက်ဖက်ရည်ဆိုင်"
+    },
+    {
+        "#": "194",
+        "no": "1993",
+        "romaji": "kitsute",
+        "kana": "きって",
+        "kanji": "切手",
+        "meaning_mm": "တံဆိပ်ခေါင်း"
+    },
+    {
+        "#": "195",
+        "no": "1996",
+        "romaji": "kippu",
+        "kana": "きっぷ",
+        "kanji": "切符",
+        "meaning_mm": "လက်မှတ်"
+    },
+    {
+        "#": "196",
+        "no": "2006",
+        "romaji": "kinō",
+        "kana": "きのう",
+        "kanji": "昨日",
+        "meaning_mm": "မနေ့က"
+    },
+    {
+        "#": "197",
+        "no": "2063",
+        "romaji": "kyū",
+        "kana": "きゅう",
+        "kanji": "九",
+        "meaning_mm": "ကိုး"
+    },
+    {
+        "#": "198",
+        "no": "2104",
+        "romaji": "gyuuniku",
+        "kana": "ぎゅうにく",
+        "kanji": "牛肉",
+        "meaning_mm": "အမဲသား"
+    },
+    {
+        "#": "199",
+        "no": "2105",
+        "romaji": "gyuunyuu",
+        "kana": "ぎゅうにゅう",
+        "kanji": "牛乳",
+        "meaning_mm": "နွားနို့"
+    },
+    {
+        "#": "200",
+        "no": "2121",
+        "romaji": "kyō",
+        "kana": "きょう",
+        "kanji": "今日",
+        "meaning_mm": "ဒီနေ့"
+    },
+    {
+        "#": "201",
+        "no": "2152",
+        "romaji": "kyōshitsu",
+        "kana": "きょうしつ",
+        "kanji": "教室",
+        "meaning_mm": "စာသင်ခန်း"
+    },
+    {
+        "#": "202",
+        "no": "2168",
+        "romaji": "kyōdai",
+        "kana": "きょうだい",
+        "kanji": "兄弟",
+        "meaning_mm": "ညီအစ်ကိုမောင်နှမ"
+    },
+    {
+        "#": "203",
+        "no": "2210",
+        "romaji": "kiyonen",
+        "kana": "きょねん",
+        "kanji": "去年",
+        "meaning_mm": "မနှစ်က"
+    },
+    {
+        "#": "204",
+        "no": "2216",
+        "romaji": "kirai(na)",
+        "kana": "きらい（な）",
+        "kanji": "嫌い（な）",
+        "meaning_mm": "မုန်းသော"
+    },
+    {
+        "#": "205",
+        "no": "2232",
+        "romaji": "kiru",
+        "kana": "きる",
+        "kanji": "切る",
+        "meaning_mm": "ဖြတ်သည်"
+    },
+    {
+        "#": "206",
+        "no": "2233",
+        "romaji": "kiru",
+        "kana": "きる",
+        "kanji": "着る",
+        "meaning_mm": "ဝတ်ဆင်သည်"
+    },
+    {
+        "#": "207",
+        "no": "2235",
+        "romaji": "kirei(na)",
+        "kana": "きれい（な）",
+        "kanji": "綺麗（な）",
+        "meaning_mm": "လှပသော"
+    },
+    {
+        "#": "208",
+        "no": "2238",
+        "romaji": "kiro(kiroguramu)",
+        "kana": "キロ（キログラム）",
+        "kanji": "kilo(kilogram)",
+        "meaning_mm": "ကီလို(ဂရမ်)"
+    },
+    {
+        "#": "209",
+        "no": "2239",
+        "romaji": "kiro(kirometoru)",
+        "kana": "キロ（キロメトル）",
+        "kanji": "kilo(kilometer)",
+        "meaning_mm": "ကီလို(မီတာ)"
+    },
+    {
+        "#": "210",
+        "no": "2259",
+        "romaji": "ginkō",
+        "kana": "ぎんこう",
+        "kanji": "銀行",
+        "meaning_mm": "ဘဏ်"
+    },
+    {
+        "#": "211",
+        "no": "2279",
+        "romaji": "kinyōbi",
+        "kana": "きんようび",
+        "kanji": "金曜日",
+        "meaning_mm": "သောကြာနေ့"
+    },
+    {
+        "#": "212",
+        "no": "2284",
+        "romaji": "ku",
+        "kana": "く",
+        "kanji": "九",
+        "meaning_mm": "ကိုး"
+    },
+    {
+        "#": "213",
+        "no": "2333",
+        "romaji": "kusuri",
+        "kana": "くすり",
+        "kanji": "薬",
+        "meaning_mm": "ဆေး"
+    },
+    {
+        "#": "214",
+        "no": "2342",
+        "romaji": "kudasai",
+        "kana": "ください",
+        "kanji": "下さい",
+        "meaning_mm": "ပေးပါ"
+    },
+    {
+        "#": "215",
+        "no": "2346",
+        "romaji": "kudamono",
+        "kana": "くだもの",
+        "kanji": "果物",
+        "meaning_mm": "သစ်သီးဝလံ"
+    },
+    {
+        "#": "216",
+        "no": "2350",
+        "romaji": "kuchi",
+        "kana": "くち",
+        "kanji": "口",
+        "meaning_mm": "ပါးစပ် ၊"
+    },
+    {
+        "#": "217",
+        "no": "2359",
+        "romaji": "kutsu",
+        "kana": "くつ",
+        "kanji": "靴",
+        "meaning_mm": "ဖိနပ်"
+    },
+    {
+        "#": "218",
+        "no": "2364",
+        "romaji": "kutsushita",
+        "kana": "くつした",
+        "kanji": "",
+        "meaning_mm": "ခြေအိပ်"
+    },
+    {
+        "#": "219",
+        "no": "2372",
+        "romaji": "kuni",
+        "kana": "くに",
+        "kanji": "国",
+        "meaning_mm": "နိုင်ငံ"
+    },
+    {
+        "#": "220",
+        "no": "2390",
+        "romaji": "kumori",
+        "kana": "くもり",
+        "kanji": "曇り",
+        "meaning_mm": "မိုးအုံ့ခြင်း"
+    },
+    {
+        "#": "221",
+        "no": "2391",
+        "romaji": "kumoru",
+        "kana": "くもる",
+        "kanji": "曇る",
+        "meaning_mm": "မိုးအုံ့သည်"
+    },
+    {
+        "#": "222",
+        "no": "2397",
+        "romaji": "kurai",
+        "kana": "くらい",
+        "kanji": "暗い",
+        "meaning_mm": "မှောင်သော"
+    },
+    {
+        "#": "223",
+        "no": "2401",
+        "romaji": "kurasu",
+        "kana": "クラス",
+        "kanji": "class",
+        "meaning_mm": "အတန်း"
+    },
+    {
+        "#": "224",
+        "no": "2406",
+        "romaji": "guramu",
+        "kana": "グラム",
+        "kanji": "gram",
+        "meaning_mm": "ဂရမ်"
+    },
+    {
+        "#": "225",
+        "no": "2419",
+        "romaji": "kuru",
+        "kana": "くる",
+        "kanji": "来る",
+        "meaning_mm": "လာသည်"
+    },
+    {
+        "#": "226",
+        "no": "2425",
+        "romaji": "kuruma",
+        "kana": "くるま",
+        "kanji": "車",
+        "meaning_mm": "ကား"
+    },
+    {
+        "#": "227",
+        "no": "2436",
+        "romaji": "kuro",
+        "kana": "くろ",
+        "kanji": "黒",
+        "meaning_mm": "အနက်ရောင်၊အပြစ်ရှိသည်ဟုသံသယရှိသူ"
+    },
+    {
+        "#": "228",
+        "no": "2437",
+        "romaji": "kuroi",
+        "kana": "くろい",
+        "kanji": "黒い",
+        "meaning_mm": "အနက်ရောင်"
+    },
+    {
+        "#": "229",
+        "no": "2479",
+        "romaji": "keikan",
+        "kana": "けいかん",
+        "kanji": "警官",
+        "meaning_mm": "ပုလိပ်"
+    },
+    {
+        "#": "230",
+        "no": "2552",
+        "romaji": "kesa",
+        "kana": "けさ",
+        "kanji": "今朝",
+        "meaning_mm": "ဒီမနက်"
+    },
+    {
+        "#": "231",
+        "no": "2560",
+        "romaji": "kesu",
+        "kana": "けす",
+        "kanji": "消す",
+        "meaning_mm": "ဖျက်သည်"
+    },
+    {
+        "#": "232",
+        "no": "2584",
+        "romaji": "kekkō(na)",
+        "kana": "けっこう（な）",
+        "kanji": "結構（な）",
+        "meaning_mm": "ကောင်းသော၊အဆင်ပြေသော"
+    },
+    {
+        "#": "233",
+        "no": "2585",
+        "romaji": "kekkon(suru)",
+        "kana": "けっこん（する）",
+        "kanji": "結婚（する）",
+        "meaning_mm": "ထိမ်းမြားလက်ထပ်ခြင်း"
+    },
+    {
+        "#": "234",
+        "no": "2605",
+        "romaji": "getsuyōbi",
+        "kana": "げつようび",
+        "kanji": "月曜日",
+        "meaning_mm": "တနင်္လာနေ့"
+    },
+    {
+        "#": "235",
+        "no": "2634",
+        "romaji": "genkan",
+        "kana": "げんかん",
+        "kanji": "玄関",
+        "meaning_mm": "အိမ်ပေါက်ဝ ၊ဖိနပ်ချွတ်နေရာ"
+    },
+    {
+        "#": "236",
+        "no": "2635",
+        "romaji": "genki(na)",
+        "kana": "げんき（な）",
+        "kanji": "元気（な）",
+        "meaning_mm": "နေကောင်းသော၊ ကျန်းမာသော"
+    },
+    {
+        "#": "237",
+        "no": "2638",
+        "romaji": "kenkyūsei",
+        "kana": "けんきゅうせい",
+        "kanji": "研究生",
+        "meaning_mm": "သုတေသနကျောင်းသား"
+    },
+    {
+        "#": "238",
+        "no": "2720",
+        "romaji": "~ko",
+        "kana": "～こ",
+        "kanji": "～個",
+        "meaning_mm": "ခု(သေးသည့်ပစ္စည်းကိုရေတွက်ခြင်း)"
+    },
+    {
+        "#": "239",
+        "no": "2723",
+        "romaji": "go",
+        "kana": "ご",
+        "kanji": "語",
+        "meaning_mm": "စကားလုံး၊ဘာသာစကား"
+    },
+    {
+        "#": "240",
+        "no": "2724",
+        "romaji": "go",
+        "kana": "ご",
+        "kanji": "五",
+        "meaning_mm": "ငါး"
+    },
+    {
+        "#": "241",
+        "no": "2731",
+        "romaji": "koibito",
+        "kana": "こいびと",
+        "kanji": "恋人",
+        "meaning_mm": "ရည်းစား"
+    },
+    {
+        "#": "242",
+        "no": "2745",
+        "romaji": "kōen",
+        "kana": "こうえん",
+        "kanji": "公演",
+        "meaning_mm": "ပန်းခြံ"
+    },
+    {
+        "#": "243",
+        "no": "2849",
+        "romaji": "koucha",
+        "kana": "こうちゃ",
+        "kanji": "紅茶",
+        "meaning_mm": "လက်ဖက်ရည်"
+    },
+    {
+        "#": "244",
+        "no": "2874",
+        "romaji": "kōban",
+        "kana": "こうばん",
+        "kanji": "交番",
+        "meaning_mm": "ရဲကင်းရဲစခန်း"
+    },
+    {
+        "#": "245",
+        "no": "2916",
+        "romaji": "koe",
+        "kana": "こえ",
+        "kanji": "声",
+        "meaning_mm": "အသံ"
+    },
+    {
+        "#": "246",
+        "no": "2924",
+        "romaji": "kōto",
+        "kana": "コート",
+        "kanji": "coat",
+        "meaning_mm": "အပေါ်အင်္ကျီ"
+    },
+    {
+        "#": "247",
+        "no": "2927",
+        "romaji": "kōhī",
+        "kana": "コーヒー",
+        "kanji": "coffee",
+        "meaning_mm": "ကော်ဖီ"
+    },
+    {
+        "#": "248",
+        "no": "2975",
+        "romaji": "koko",
+        "kana": "ここ",
+        "kanji": "",
+        "meaning_mm": "ဒီနေရာ၊ ဒီအချက်၊ အခုအချိန်"
+    },
+    {
+        "#": "249",
+        "no": "2977",
+        "romaji": "gogo",
+        "kana": "ごご",
+        "kanji": "午後",
+        "meaning_mm": "ညနေပိုင်း(မွန်းတည်၁၂နာရီမှည၁၂နာရီထိ)"
+    },
+    {
+        "#": "250",
+        "no": "2980",
+        "romaji": "kokonoka",
+        "kana": "ここのか",
+        "kanji": "九日",
+        "meaning_mm": "၉-ရက်"
+    },
+    {
+        "#": "251",
+        "no": "2981",
+        "romaji": "kokonotsu",
+        "kana": "ここのつ",
+        "kanji": "九つ",
+        "meaning_mm": "ကိုးခု"
+    },
+    {
+        "#": "252",
+        "no": "3007",
+        "romaji": "goshiyujin",
+        "kana": "ごしゅじん",
+        "kanji": "ご主人",
+        "meaning_mm": "ခင်ပွန်း"
+    },
+    {
+        "#": "253",
+        "no": "3027",
+        "romaji": "gozen",
+        "kana": "ごぜん",
+        "kanji": "午前",
+        "meaning_mm": "မနက်ပိုင်း"
+    },
+    {
+        "#": "254",
+        "no": "3033",
+        "romaji": "kotae",
+        "kana": "こたえ",
+        "kanji": "答え",
+        "meaning_mm": "အဖြေ"
+    },
+    {
+        "#": "255",
+        "no": "3040",
+        "romaji": "gochisōsama(deshita)",
+        "kana": "ごちそうさま（でした）",
+        "kanji": "",
+        "meaning_mm": "စားပြီးပါပြီ(ကျေးမွေးတဲ့အတွက်ကျေးဇူးတင်ပါတယ်)"
+    },
+    {
+        "#": "256",
+        "no": "3043",
+        "romaji": "kochira",
+        "kana": "こちら",
+        "kanji": "",
+        "meaning_mm": "ဒီဘက်"
+    },
+    {
+        "#": "257",
+        "no": "3044",
+        "romaji": "kochirakoso",
+        "kana": "こちらこそ",
+        "kanji": "",
+        "meaning_mm": "ကျွန်တော်လဲပဲ(ကျေးဇူးတင်ပါသည်၊တွေ့ရတာဝမ်းသာပါတယ်)"
+    },
+    {
+        "#": "258",
+        "no": "3059",
+        "romaji": "koppu",
+        "kana": "コップ",
+        "kanji": "cup",
+        "meaning_mm": "ဖန်ခွက်"
+    },
+    {
+        "#": "259",
+        "no": "3070",
+        "romaji": "kotoshi",
+        "kana": "ことし",
+        "kanji": "今年",
+        "meaning_mm": "ဒီနှစ်"
+    },
+    {
+        "#": "260",
+        "no": "3077",
+        "romaji": "kotoba",
+        "kana": "ことば",
+        "kanji": "言葉",
+        "meaning_mm": "စကားစကားလုံး"
+    },
+    {
+        "#": "261",
+        "no": "3080",
+        "romaji": "kodomo",
+        "kana": "こども",
+        "kanji": "子供",
+        "meaning_mm": "ကလေး"
+    },
+    {
+        "#": "262",
+        "no": "3088",
+        "romaji": "kono",
+        "kana": "この",
+        "kanji": "",
+        "meaning_mm": "ဒီ"
+    },
+    {
+        "#": "263",
+        "no": "3097",
+        "romaji": "gohan",
+        "kana": "ごはん",
+        "kanji": "御飯",
+        "meaning_mm": "ထမင်း"
+    },
+    {
+        "#": "264",
+        "no": "3110",
+        "romaji": "komaru",
+        "kana": "こまる",
+        "kanji": "困る",
+        "meaning_mm": "ဒုက္ခရောက်သည်"
+    },
+    {
+        "#": "265",
+        "no": "3124",
+        "romaji": "gomenkudasai",
+        "kana": "ごめんください",
+        "kanji": "御免ください",
+        "meaning_mm": "ဝင်ခွင့်ပြုပါ"
+    },
+    {
+        "#": "266",
+        "no": "3126",
+        "romaji": "gomennasai",
+        "kana": "ごめんなさい",
+        "kanji": "御免なさい",
+        "meaning_mm": "ခွင့်လွှတ်ပါ"
+    },
+    {
+        "#": "267",
+        "no": "3141",
+        "romaji": "kore",
+        "kana": "これ",
+        "kanji": "",
+        "meaning_mm": "ဒီဟာ"
+    },
+    {
+        "#": "268",
+        "no": "3146",
+        "romaji": "~koro/goro",
+        "kana": "～ころ／ごろ",
+        "kanji": "",
+        "meaning_mm": "…. လောက်"
+    },
+    {
+        "#": "269",
+        "no": "3165",
+        "romaji": "kongetsu",
+        "kana": "こんげつ",
+        "kanji": "今月",
+        "meaning_mm": "ဒီလ"
+    },
+    {
+        "#": "270",
+        "no": "3171",
+        "romaji": "konshū",
+        "kana": "こんしゅう",
+        "kanji": "今週",
+        "meaning_mm": "ဒီတပတ်"
+    },
+    {
+        "#": "271",
+        "no": "3185",
+        "romaji": "konna",
+        "kana": "こんな",
+        "kanji": "",
+        "meaning_mm": "ဒီလောက်၊ ဒီလို"
+    },
+    {
+        "#": "272",
+        "no": "3188",
+        "romaji": "konnichiwa",
+        "kana": "こんにちは",
+        "kanji": "",
+        "meaning_mm": "မင်္ဂလာနေ့ခင်းပါ"
+    },
+    {
+        "#": "273",
+        "no": "3191",
+        "romaji": "konban",
+        "kana": "こんばん",
+        "kanji": "今晩",
+        "meaning_mm": "ဒီညနေ"
+    },
+    {
+        "#": "274",
+        "no": "3192",
+        "romaji": "kombanwa",
+        "kana": "こんばんは",
+        "kanji": "",
+        "meaning_mm": "မင်္ဂလာညချမ်းပါ"
+    },
+    {
+        "#": "275",
+        "no": "3205",
+        "romaji": "~sai",
+        "kana": "～さい",
+        "kanji": "才／歳",
+        "meaning_mm": "နှစ်(အသက်ရွယ်)"
+    },
+    {
+        "#": "276",
+        "no": "3264",
+        "romaji": "saiu",
+        "kana": "さいふ",
+        "kanji": "財布",
+        "meaning_mm": "ပိုက်ဆံအိတ်"
+    },
+    {
+        "#": "277",
+        "no": "3288",
+        "romaji": "sakana",
+        "kana": "さかな",
+        "kanji": "さかな",
+        "meaning_mm": "ငါး"
+    },
+    {
+        "#": "278",
+        "no": "3299",
+        "romaji": "saki(ni)",
+        "kana": "さき（に）",
+        "kanji": "先に",
+        "meaning_mm": "အစွန်၊အရင်ဦးစွာ၊အဖျား"
+    },
+    {
+        "#": "279",
+        "no": "3322",
+        "romaji": "sakubun",
+        "kana": "さくぶん",
+        "kanji": "作文",
+        "meaning_mm": "စာစီစာကုံး"
+    },
+    {
+        "#": "280",
+        "no": "3355",
+        "romaji": "sasu(kasao)",
+        "kana": "さす（かさを）",
+        "kanji": "差す（傘を）",
+        "meaning_mm": "ထီးဆောင်းသည်"
+    },
+    {
+        "#": "281",
+        "no": "3374",
+        "romaji": "sakkā",
+        "kana": "サッカー",
+        "kanji": "soccer",
+        "meaning_mm": "ဘောလုံး"
+    },
+    {
+        "#": "282",
+        "no": "3384",
+        "romaji": "zasshi",
+        "kana": "ざっし",
+        "kanji": "雑誌",
+        "meaning_mm": "မဂ္ဂဇင်း"
+    },
+    {
+        "#": "283",
+        "no": "3397",
+        "romaji": "satō",
+        "kana": "さとう",
+        "kanji": "砂糖",
+        "meaning_mm": "သကြား"
+    },
+    {
+        "#": "284",
+        "no": "3421",
+        "romaji": "samui",
+        "kana": "さむい",
+        "kanji": "寒い",
+        "meaning_mm": "ချမ်းအေးသော"
+    },
+    {
+        "#": "285",
+        "no": "3429",
+        "romaji": "sayōnara/sayonara",
+        "kana": "さようなら／さよなら",
+        "kanji": "",
+        "meaning_mm": "တာ့တာ"
+    },
+    {
+        "#": "286",
+        "no": "3430",
+        "romaji": "sara",
+        "kana": "さら",
+        "kanji": "皿",
+        "meaning_mm": "ပန်းကန်ပြား"
+    },
+    {
+        "#": "287",
+        "no": "3433",
+        "romaji": "sarainen",
+        "kana": "さらいねん",
+        "kanji": "再来年",
+        "meaning_mm": "လာမည့်နောက်နှစ်"
+    },
+    {
+        "#": "288",
+        "no": "3449",
+        "romaji": "san",
+        "kana": "さん",
+        "kanji": "三",
+        "meaning_mm": "သုံး"
+    },
+    {
+        "#": "289",
+        "no": "3489",
+        "romaji": "sampo(suru)",
+        "kana": "さんぽ（する）",
+        "kanji": "散歩（する）",
+        "meaning_mm": "လမ်းလျှောက်ခြင်း"
+    },
+    {
+        "#": "290",
+        "no": "3498",
+        "romaji": "shi",
+        "kana": "し",
+        "kanji": "四",
+        "meaning_mm": "လေး"
+    },
+    {
+        "#": "291",
+        "no": "3529",
+        "romaji": "shio",
+        "kana": "しお",
+        "kanji": "塩",
+        "meaning_mm": "ဆား"
+    },
+    {
+        "#": "292",
+        "no": "3545",
+        "romaji": "shikashi",
+        "kana": "しかし",
+        "kanji": "",
+        "meaning_mm": "သို့သော်လည်းဘဲ"
+    },
+    {
+        "#": "293",
+        "no": "3553",
+        "romaji": "jikan",
+        "kana": "じかん",
+        "kanji": "時間",
+        "meaning_mm": "အချိန်"
+    },
+    {
+        "#": "294",
+        "no": "3602",
+        "romaji": "shigoto",
+        "kana": "しごと",
+        "kanji": "仕事",
+        "meaning_mm": "အလုပ်"
+    },
+    {
+        "#": "295",
+        "no": "3626",
+        "romaji": "jisho",
+        "kana": "じしょ",
+        "kanji": "辞書",
+        "meaning_mm": "အဘိဓာန်"
+    },
+    {
+        "#": "296",
+        "no": "3638",
+        "romaji": "shizuka(na)",
+        "kana": "しずか（な）",
+        "kanji": "静か（な）",
+        "meaning_mm": "တိတ်ဆိတ်သော"
+    },
+    {
+        "#": "297",
+        "no": "3660",
+        "romaji": "shita",
+        "kana": "した",
+        "kanji": "下",
+        "meaning_mm": "အောက်"
+    },
+    {
+        "#": "298",
+        "no": "3688",
+        "romaji": "shichi",
+        "kana": "しち",
+        "kanji": "七",
+        "meaning_mm": "ခုနှစ်"
+    },
+    {
+        "#": "299",
+        "no": "3742",
+        "romaji": "shitsumon(suru)",
+        "kana": "しつもん（する）",
+        "kanji": "質問（する）",
+        "meaning_mm": "မေးခွန်းမေးသည်"
+    },
+    {
+        "#": "300",
+        "no": "3749",
+        "romaji": "shitsureishimashita",
+        "kana": "しつれいしました",
+        "kanji": "失礼いたしました",
+        "meaning_mm": "တောင်းပန်ပါတယ်။"
+    },
+    {
+        "#": "301",
+        "no": "3750",
+        "romaji": "shitsureishimasu",
+        "kana": "しつれいします",
+        "kanji": "失礼いします",
+        "meaning_mm": "ဝင်ခွင့်ပြုပါ"
+    },
+    {
+        "#": "302",
+        "no": "3762",
+        "romaji": "jitensha",
+        "kana": "じてんしゃ",
+        "kanji": "自転車",
+        "meaning_mm": "စက်ဘီး"
+    },
+    {
+        "#": "303",
+        "no": "3767",
+        "romaji": "jidōsha",
+        "kana": "じどうしゃ",
+        "kanji": "自動車",
+        "meaning_mm": "မော်တော်ကား"
+    },
+    {
+        "#": "304",
+        "no": "3775",
+        "romaji": "shinu",
+        "kana": "しぬ",
+        "kanji": "死ぬ",
+        "meaning_mm": "သေဆုံးသည်"
+    },
+    {
+        "#": "305",
+        "no": "3792",
+        "romaji": "jibiki",
+        "kana": "じびき",
+        "kanji": "字引",
+        "meaning_mm": "အဘိဓာန်"
+    },
+    {
+        "#": "306",
+        "no": "3799",
+        "romaji": "jibun(de)",
+        "kana": "じぶん（で）",
+        "kanji": "自分で",
+        "meaning_mm": "မိမိကိုယ်တိုင်ဖြင့်၊ကိုယ်ဟာကို"
+    },
+    {
+        "#": "307",
+        "no": "3816",
+        "romaji": "shimaru",
+        "kana": "しまる",
+        "kanji": "閉まる",
+        "meaning_mm": "ပိတ်သည်"
+    },
+    {
+        "#": "308",
+        "no": "3834",
+        "romaji": "shimeru",
+        "kana": "しめる",
+        "kanji": "閉める",
+        "meaning_mm": "ပိတ်သည်"
+    },
+    {
+        "#": "309",
+        "no": "3843",
+        "romaji": "ja/jā",
+        "kana": "じゃ／じゃあ",
+        "kanji": "",
+        "meaning_mm": "ဒီလိုဆိုရင်"
+    },
+    {
+        "#": "310",
+        "no": "3862",
+        "romaji": "shashin",
+        "kana": "しゃしん",
+        "kanji": "写真",
+        "meaning_mm": "ဓါတ်ပုံ"
+    },
+    {
+        "#": "311",
+        "no": "3869",
+        "romaji": "shatsu(T shatsu)",
+        "kana": "シャツ（T シャツ）",
+        "kanji": "shirt",
+        "meaning_mm": "ရုပ်အင်္ကျီ"
+    },
+    {
+        "#": "312",
+        "no": "3887",
+        "romaji": "shawā",
+        "kana": "シャワー",
+        "kanji": "shower",
+        "meaning_mm": "ရေပန်း"
+    },
+    {
+        "#": "313",
+        "no": "3903",
+        "romaji": "jū",
+        "kana": "じゅう",
+        "kanji": "十",
+        "meaning_mm": "တစ်ဆယ်"
+    },
+    {
+        "#": "314",
+        "no": "3911",
+        "romaji": "~shūkan",
+        "kana": "～しゅうかん",
+        "kanji": "～週間",
+        "meaning_mm": "အပတ်"
+    },
+    {
+        "#": "315",
+        "no": "3942",
+        "romaji": "jūsu",
+        "kana": "ジュース",
+        "kanji": "juice",
+        "meaning_mm": "ဖျော်ရည်"
+    },
+    {
+        "#": "316",
+        "no": "3985",
+        "romaji": "jiyugyou",
+        "kana": "じゅぎょう",
+        "kanji": "授業",
+        "meaning_mm": "ကျောင်းစာသင်ခြင်း၊ သင်တန်း"
+    },
+    {
+        "#": "317",
+        "no": "3992",
+        "romaji": "shukudai",
+        "kana": "しゅくだい",
+        "kanji": "宿題",
+        "meaning_mm": "အိမ်စာ"
+    },
+    {
+        "#": "318",
+        "no": "4155",
+        "romaji": "jōzu(na)",
+        "kana": "じょうず（な）",
+        "kanji": "上手（な）",
+        "meaning_mm": "တော်သော၊ကျွမ်းကျင်သော"
+    },
+    {
+        "#": "319",
+        "no": "4197",
+        "romaji": "jōbu(na)",
+        "kana": "じょうぶ（な）",
+        "kanji": "丈夫（な）",
+        "meaning_mm": "သန်မာသော"
+    },
+    {
+        "#": "320",
+        "no": "4215",
+        "romaji": "shōyu",
+        "kana": "しょうゆ",
+        "kanji": "醤油",
+        "meaning_mm": "ဂျပန်ပဲငံပြာရည်"
+    },
+    {
+        "#": "321",
+        "no": "4237",
+        "romaji": "shokudō",
+        "kana": "しょくどう",
+        "kanji": "食堂",
+        "meaning_mm": "ထမင်းစားခန်း"
+    },
+    {
+        "#": "322",
+        "no": "4314",
+        "romaji": "shiru",
+        "kana": "しる",
+        "kanji": "知る",
+        "meaning_mm": "သိသည်"
+    },
+    {
+        "#": "323",
+        "no": "4319",
+        "romaji": "shiro",
+        "kana": "しろ",
+        "kanji": "白",
+        "meaning_mm": "အဖြူရောင်"
+    },
+    {
+        "#": "324",
+        "no": "4322",
+        "romaji": "shiroi",
+        "kana": "しろい",
+        "kanji": "白い",
+        "meaning_mm": "အဖြူရောင်၊ဖြူသော"
+    },
+    {
+        "#": "325",
+        "no": "4410",
+        "romaji": "shimbun",
+        "kana": "しんぶん",
+        "kanji": "新聞",
+        "meaning_mm": "သတင်းစာ"
+    },
+    {
+        "#": "326",
+        "no": "4443",
+        "romaji": "suika",
+        "kana": "すいか",
+        "kanji": "西瓜",
+        "meaning_mm": "ဖရဲသီး"
+    },
+    {
+        "#": "327",
+        "no": "4481",
+        "romaji": "suu",
+        "kana": "すう",
+        "kanji": "吸う",
+        "meaning_mm": "စုပ်သည်၊ဆေးလိပ်သောက်သည်"
+    },
+    {
+        "#": "328",
+        "no": "4496",
+        "romaji": "sukāto",
+        "kana": "スカート",
+        "kanji": "skirt",
+        "meaning_mm": "အမျိုးသမီးဝတ်စကပ်"
+    },
+    {
+        "#": "329",
+        "no": "4504",
+        "romaji": "〜sugi",
+        "kana": "〜すぎ",
+        "kanji": "",
+        "meaning_mm": "...ကျော်"
+    },
+    {
+        "#": "330",
+        "no": "4505",
+        "romaji": "suki(na)",
+        "kana": "すき（な）",
+        "kanji": "好き（な）",
+        "meaning_mm": "နှစ်သက်သော"
+    },
+    {
+        "#": "331",
+        "no": "4516",
+        "romaji": "sugu(ni)",
+        "kana": "すぐ（に）",
+        "kanji": "",
+        "meaning_mm": "ချက်ချင်း"
+    },
+    {
+        "#": "332",
+        "no": "4523",
+        "romaji": "sukunai",
+        "kana": "すくない",
+        "kanji": "少ない",
+        "meaning_mm": "နည်းသော"
+    },
+    {
+        "#": "333",
+        "no": "4541",
+        "romaji": "suzushii",
+        "kana": "すずしい",
+        "kanji": "涼しい",
+        "meaning_mm": "အေးသော"
+    },
+    {
+        "#": "334",
+        "no": "4560",
+        "romaji": "〜zutsu",
+        "kana": "〜ずつ",
+        "kanji": "",
+        "meaning_mm": "-စီ"
+    },
+    {
+        "#": "335",
+        "no": "4574",
+        "romaji": "sutōbu",
+        "kana": "ストーブ",
+        "kanji": "stove",
+        "meaning_mm": "မီးဖို"
+    },
+    {
+        "#": "336",
+        "no": "4597",
+        "romaji": "supūn",
+        "kana": "スプーン",
+        "kanji": "spoon",
+        "meaning_mm": "ဇွန်း"
+    },
+    {
+        "#": "337",
+        "no": "4604",
+        "romaji": "supōtsu",
+        "kana": "スポーツ",
+        "kanji": "sports",
+        "meaning_mm": "အားကစား"
+    },
+    {
+        "#": "338",
+        "no": "4608",
+        "romaji": "zubon",
+        "kana": "ズボン",
+        "kanji": "jupon",
+        "meaning_mm": "ဘောင်းဘီ"
+    },
+    {
+        "#": "339",
+        "no": "4619",
+        "romaji": "sumimasen",
+        "kana": "すみません",
+        "kanji": "",
+        "meaning_mm": "ခွင့်ပြုပါ၊ကျေးဇူးပြု၍"
+    },
+    {
+        "#": "340",
+        "no": "4623",
+        "romaji": "sumu",
+        "kana": "すむ",
+        "kanji": "住む",
+        "meaning_mm": "နေထိုင်သည်"
+    },
+    {
+        "#": "341",
+        "no": "4633",
+        "romaji": "surippa",
+        "kana": "スリッパ",
+        "kanji": "slippers",
+        "meaning_mm": "ခြေညှပ်ဖိနပ်၊အိမ်တွင်းစီးဖိနပ်"
+    },
+    {
+        "#": "342",
+        "no": "4636",
+        "romaji": "suru",
+        "kana": "する",
+        "kanji": "",
+        "meaning_mm": "ပြုလုပ်သည်"
+    },
+    {
+        "#": "343",
+        "no": "4647",
+        "romaji": "suwaru",
+        "kana": "すわる",
+        "kanji": "座る",
+        "meaning_mm": "ထိုင်သည်"
+    },
+    {
+        "#": "344",
+        "no": "4654",
+        "romaji": "se",
+        "kana": "せ",
+        "kanji": "背",
+        "meaning_mm": "အရပ်"
+    },
+    {
+        "#": "345",
+        "no": "4726",
+        "romaji": "seito",
+        "kana": "せいと",
+        "kanji": "生徒",
+        "meaning_mm": "ကျောင်းသား"
+    },
+    {
+        "#": "346",
+        "no": "4762",
+        "romaji": "sētā",
+        "kana": "セーター",
+        "kanji": "sweater",
+        "meaning_mm": "ဆွယ်တာ"
+    },
+    {
+        "#": "347",
+        "no": "4799",
+        "romaji": "sekken",
+        "kana": "せっけん",
+        "kanji": "石鹸",
+        "meaning_mm": "ဆပ်ပြာ"
+    },
+    {
+        "#": "348",
+        "no": "4829",
+        "romaji": "sebiro",
+        "kana": "せびろ",
+        "kanji": "背広",
+        "meaning_mm": "ကုတ်အင်္ကျီ"
+    },
+    {
+        "#": "349",
+        "no": "4830",
+        "romaji": "semai",
+        "kana": "せまい",
+        "kanji": "狭い",
+        "meaning_mm": "ကျဥ်းမြောင်းသော"
+    },
+    {
+        "#": "350",
+        "no": "4841",
+        "romaji": "zero",
+        "kana": "ゼロ",
+        "kanji": "",
+        "meaning_mm": "သုည"
+    },
+    {
+        "#": "351",
+        "no": "4844",
+        "romaji": "sen",
+        "kana": "せん",
+        "kanji": "千",
+        "meaning_mm": "တစ်ထောင်"
+    },
+    {
+        "#": "352",
+        "no": "4863",
+        "romaji": "sengetsu",
+        "kana": "せんげつ",
+        "kanji": "先月",
+        "meaning_mm": "ပြီးခဲ့သောလ"
+    },
+    {
+        "#": "353",
+        "no": "4878",
+        "romaji": "senshū",
+        "kana": "せんしゅう",
+        "kanji": "先週",
+        "meaning_mm": "ပြီးခဲ့သောအပတ်"
+    },
+    {
+        "#": "354",
+        "no": "4889",
+        "romaji": "sensei",
+        "kana": "せんせい",
+        "kanji": "先生",
+        "meaning_mm": "ဆရာ"
+    },
+    {
+        "#": "355",
+        "no": "4900",
+        "romaji": "sentaku(suru)",
+        "kana": "せんたく（する）",
+        "kanji": "洗濯（する）",
+        "meaning_mm": "အဝတ်လျှော်ခြင်း"
+    },
+    {
+        "#": "356",
+        "no": "4919",
+        "romaji": "zembu(de)",
+        "kana": "ぜんぶ（で）",
+        "kanji": "全部（で）",
+        "meaning_mm": "အားလုံးပေါင်း"
+    },
+    {
+        "#": "357",
+        "no": "4972",
+        "romaji": "sōji(suru)",
+        "kana": "そうじ（する）",
+        "kanji": "掃除（する）",
+        "meaning_mm": "သန့်ရှင်းရေး"
+    },
+    {
+        "#": "358",
+        "no": "5033",
+        "romaji": "soko",
+        "kana": "そこ",
+        "kanji": "",
+        "meaning_mm": "ဟိုမှာ"
+    },
+    {
+        "#": "359",
+        "no": "5043",
+        "romaji": "soshite",
+        "kana": "そして",
+        "kanji": "",
+        "meaning_mm": "ထို့နောက်၊ထို့အပြင်"
+    },
+    {
+        "#": "360",
+        "no": "5053",
+        "romaji": "sochira",
+        "kana": "そちら",
+        "kanji": "",
+        "meaning_mm": "ဟိုဘက်"
+    },
+    {
+        "#": "361",
+        "no": "5065",
+        "romaji": "soto",
+        "kana": "そと",
+        "kanji": "外",
+        "meaning_mm": "အပြင်"
+    },
+    {
+        "#": "362",
+        "no": "5070",
+        "romaji": "sono",
+        "kana": "その",
+        "kanji": "",
+        "meaning_mm": "ဟို"
+    },
+    {
+        "#": "363",
+        "no": "5078",
+        "romaji": "soba(madonosoba)",
+        "kana": "そば（窓のそば）",
+        "kanji": "",
+        "meaning_mm": "ဘေးမှာ၊အနားမှာ"
+    },
+    {
+        "#": "364",
+        "no": "5091",
+        "romaji": "sora",
+        "kana": "そら",
+        "kanji": "空",
+        "meaning_mm": "မိုးကောင်းကင်"
+    },
+    {
+        "#": "365",
+        "no": "5097",
+        "romaji": "sore",
+        "kana": "それ",
+        "kanji": "",
+        "meaning_mm": "ဟိုဟာ"
+    },
+    {
+        "#": "366",
+        "no": "5098",
+        "romaji": "sorekara",
+        "kana": "それから",
+        "kanji": "",
+        "meaning_mm": "ပြီးခဲ့တဲ့နောက်၊ထို့နောက်၊အဲဒီအပြင်"
+    },
+    {
+        "#": "367",
+        "no": "5101",
+        "romaji": "soredewa",
+        "kana": "それでは",
+        "kanji": "",
+        "meaning_mm": "ဒီလိုဆိုရင်၊ဒါဖြင့်ရင်"
+    },
+    {
+        "#": "368",
+        "no": "5137",
+        "romaji": "〜dai",
+        "kana": "〜だい",
+        "kanji": "台",
+        "meaning_mm": "...လုံး၊စီး"
+    },
+    {
+        "#": "369",
+        "no": "5153",
+        "romaji": "daigaku",
+        "kana": "だいがく",
+        "kanji": "大学",
+        "meaning_mm": "တက္ကသိုလ်"
+    },
+    {
+        "#": "370",
+        "no": "5178",
+        "romaji": "taishikan",
+        "kana": "たいしかん",
+        "kanji": "大使館",
+        "meaning_mm": "သံရုံး"
+    },
+    {
+        "#": "371",
+        "no": "5190",
+        "romaji": "daijōbu(na)",
+        "kana": "だいじょうぶ（な）",
+        "kanji": "大丈夫（な）",
+        "meaning_mm": "ကိစ္စမရှိသော၊ဖြစ်နိုင်သော၊အဆင်ပြေသော"
+    },
+    {
+        "#": "372",
+        "no": "5193",
+        "romaji": "daisuki(na)",
+        "kana": "だいすき（な）",
+        "kanji": "大好き（な）",
+        "meaning_mm": "အရမ်းကြိုက်သော"
+    },
+    {
+        "#": "373",
+        "no": "5200",
+        "romaji": "taisetsu(na)",
+        "kana": "たいせつ（な）",
+        "kanji": "大切（な）",
+        "meaning_mm": "တန်ဘိုးထားသော၊အရေးကြီးသော"
+    },
+    {
+        "#": "374",
+        "no": "5213",
+        "romaji": "daidokoro",
+        "kana": "だいどころ",
+        "kanji": "台所",
+        "meaning_mm": "မီးဖိုချောင်"
+    },
+    {
+        "#": "375",
+        "no": "5230",
+        "romaji": "taihen",
+        "kana": "たいへん",
+        "kanji": "大変",
+        "meaning_mm": "အလွန်"
+    },
+    {
+        "#": "376",
+        "no": "5233",
+        "romaji": "taihen(na)",
+        "kana": "たいへん（な）",
+        "kanji": "大変（な）",
+        "meaning_mm": "ပင်ပန်းသော၊ဒုက္ခရောက်သော"
+    },
+    {
+        "#": "377",
+        "no": "5277",
+        "romaji": "takai(sega〜)",
+        "kana": "たかい（せが〜）",
+        "kanji": "高い（背が〜）",
+        "meaning_mm": "အရပ်ရှည်သော"
+    },
+    {
+        "#": "378",
+        "no": "5278",
+        "romaji": "takai(nedanga〜)",
+        "kana": "たかい（ねだんが〜）",
+        "kanji": "高い（値段が〜）",
+        "meaning_mm": "စျေးကြီးသော"
+    },
+    {
+        "#": "379",
+        "no": "5294",
+        "romaji": "takusan",
+        "kana": "たくさん",
+        "kanji": "",
+        "meaning_mm": "များစွာ၊အများကြီး"
+    },
+    {
+        "#": "380",
+        "no": "5295",
+        "romaji": "takushī",
+        "kana": "タクシー",
+        "kanji": "taxi",
+        "meaning_mm": "အငှားကား"
+    },
+    {
+        "#": "381",
+        "no": "5304",
+        "romaji": "〜dake",
+        "kana": "〜だけ",
+        "kanji": "",
+        "meaning_mm": "-သာလျှင်"
+    },
+    {
+        "#": "382",
+        "no": "5319",
+        "romaji": "dasu",
+        "kana": "だす",
+        "kanji": "出す",
+        "meaning_mm": "ထုတ်သည်၊တင်သည်"
+    },
+    {
+        "#": "383",
+        "no": "5355",
+        "romaji": "tatsu",
+        "kana": "たつ",
+        "kanji": "立つ",
+        "meaning_mm": "ထသည်၊မတ်တပ်ရပ်သည်"
+    },
+    {
+        "#": "384",
+        "no": "5371",
+        "romaji": "tate",
+        "kana": "たて",
+        "kanji": "縦",
+        "meaning_mm": "ဒေါင်လိုက်"
+    },
+    {
+        "#": "385",
+        "no": "5379",
+        "romaji": "tatemono",
+        "kana": "たてもの",
+        "kanji": "建物",
+        "meaning_mm": "အဆောက်အဦး"
+    },
+    {
+        "#": "386",
+        "no": "5396",
+        "romaji": "tanoshii",
+        "kana": "たのしい",
+        "kanji": "楽しい",
+        "meaning_mm": "ပျော်စရာကောင်းသော"
+    },
+    {
+        "#": "387",
+        "no": "5400",
+        "romaji": "tanomu",
+        "kana": "たのむ",
+        "kanji": "頼む",
+        "meaning_mm": "မေတ္တာရပ်ခံသည်"
+    },
+    {
+        "#": "388",
+        "no": "5403",
+        "romaji": "tabako",
+        "kana": "たばこ",
+        "kanji": "",
+        "meaning_mm": "ဆေးလိပ်"
+    },
+    {
+        "#": "389",
+        "no": "5417",
+        "romaji": "tabun",
+        "kana": "たぶん",
+        "kanji": "多分",
+        "meaning_mm": "အထင်အားဖြင့်"
+    },
+    {
+        "#": "390",
+        "no": "5419",
+        "romaji": "tabemono",
+        "kana": "たべもの",
+        "kanji": "食べ物",
+        "meaning_mm": "စားစရာ"
+    },
+    {
+        "#": "391",
+        "no": "5420",
+        "romaji": "taberu",
+        "kana": "たべる",
+        "kanji": "食べる",
+        "meaning_mm": "စားသည်"
+    },
+    {
+        "#": "392",
+        "no": "5425",
+        "romaji": "tamago/tamago",
+        "kana": "たまご／たまご",
+        "kanji": "卵／玉子",
+        "meaning_mm": "ဥ၊ ကြက်ဥ၊ ဘဲဥ"
+    },
+    {
+        "#": "393",
+        "no": "5459",
+        "romaji": "dare",
+        "kana": "だれ",
+        "kanji": "誰",
+        "meaning_mm": "မည်သူ"
+    },
+    {
+        "#": "394",
+        "no": "5499",
+        "romaji": "dandan",
+        "kana": "だんだん",
+        "kanji": "段々",
+        "meaning_mm": "တဖြည်းဖြည်း"
+    },
+    {
+        "#": "395",
+        "no": "5530",
+        "romaji": "chīsana(na)",
+        "kana": "ちいさな（な）",
+        "kanji": "小さな（な）",
+        "meaning_mm": "သေးသော"
+    },
+    {
+        "#": "396",
+        "no": "5531",
+        "romaji": "chīsai",
+        "kana": "ちいさい",
+        "kanji": "小さい",
+        "meaning_mm": "သေးသော"
+    },
+    {
+        "#": "397",
+        "no": "5539",
+        "romaji": "chikai",
+        "kana": "ちかい",
+        "kanji": "近い",
+        "meaning_mm": "နီးသော"
+    },
+    {
+        "#": "398",
+        "no": "5543",
+        "romaji": "chigau",
+        "kana": "ちがう",
+        "kanji": "違う",
+        "meaning_mm": "မဟုတ်ဘူး၊ မှားသည်"
+    },
+    {
+        "#": "399",
+        "no": "5544",
+        "romaji": "chikaku",
+        "kana": "ちかく",
+        "kanji": "近く",
+        "meaning_mm": "အနီးအနား၊ ဒီအနီးအနားတဝိုက်"
+    },
+    {
+        "#": "400",
+        "no": "5550",
+        "romaji": "chikatetsu",
+        "kana": "ちかてつ",
+        "kanji": "地下鉄",
+        "meaning_mm": "မြေအောက်ရထား"
+    },
+    {
+        "#": "401",
+        "no": "5568",
+        "romaji": "chizu",
+        "kana": "ちず",
+        "kanji": "地図",
+        "meaning_mm": "မြေပုံ"
+    },
+    {
+        "#": "402",
+        "no": "5572",
+        "romaji": "chichi",
+        "kana": "ちち",
+        "kanji": "父",
+        "meaning_mm": "အဖေ"
+    },
+    {
+        "#": "403",
+        "no": "5590",
+        "romaji": "cha(ocha)",
+        "kana": "ちゃ（おちゃ）",
+        "kanji": "茶（お茶）",
+        "meaning_mm": "လက်ဖက်၊ ရေနွေးကြမ်း"
+    },
+    {
+        "#": "404",
+        "no": "5592",
+        "romaji": "chairo",
+        "kana": "ちゃいろ",
+        "kanji": "茶色",
+        "meaning_mm": "အညိုရောင်"
+    },
+    {
+        "#": "405",
+        "no": "5607",
+        "romaji": "chawan",
+        "kana": "ちゃわん",
+        "kanji": "茶碗",
+        "meaning_mm": "ပန်းကန်လုံး"
+    },
+    {
+        "#": "406",
+        "no": "5615",
+        "romaji": "naka",
+        "kana": "ちゅう",
+        "kanji": "中",
+        "meaning_mm": "...တုန်း၊ ...ဆဲ"
+    },
+    {
+        "#": "407",
+        "no": "5626",
+        "romaji": "chūgoku",
+        "kana": "ちゅうごく",
+        "kanji": "中国",
+        "meaning_mm": "တရုတ်ပြည်"
+    },
+    {
+        "#": "408",
+        "no": "5694",
+        "romaji": "chōdo",
+        "kana": "ちょうど",
+        "kanji": "丁度",
+        "meaning_mm": "တိတိ"
+    },
+    {
+        "#": "409",
+        "no": "5724",
+        "romaji": "chotto",
+        "kana": "ちょっと",
+        "kanji": "",
+        "meaning_mm": "ခဏ၊ အနည်းငယ်"
+    },
+    {
+        "#": "410",
+        "no": "5755",
+        "romaji": "ichinichi",
+        "kana": "いちにち",
+        "kanji": "一日",
+        "meaning_mm": "တစ်ရက်နေ့"
+    },
+    {
+        "#": "411",
+        "no": "5785",
+        "romaji": "tsukau",
+        "kana": "つかう",
+        "kanji": "使う",
+        "meaning_mm": "အသုံးပြုသည်"
+    },
+    {
+        "#": "412",
+        "no": "5793",
+        "romaji": "tsukareru",
+        "kana": "つかれる",
+        "kanji": "疲れる",
+        "meaning_mm": "မောသည်"
+    },
+    {
+        "#": "413",
+        "no": "5795",
+        "romaji": "tsugi(no)",
+        "kana": "つぎ（の）",
+        "kanji": "次（の）",
+        "meaning_mm": "နောက်"
+    },
+    {
+        "#": "414",
+        "no": "5814",
+        "romaji": "tsuku(nipponni)",
+        "kana": "つく（にっぽんに）",
+        "kanji": "着く（日本に）",
+        "meaning_mm": "ဆိုက်ရောက်သည်"
+    },
+    {
+        "#": "415",
+        "no": "5816",
+        "romaji": "tsukue",
+        "kana": "つくえ",
+        "kanji": "机",
+        "meaning_mm": "စားပွဲ"
+    },
+    {
+        "#": "416",
+        "no": "5821",
+        "romaji": "tsukuru/tsukuru",
+        "kana": "つくる／つくる",
+        "kanji": "作る／造る",
+        "meaning_mm": "တည်ဆောက်သည်၊ ပြုလုပ်သည်"
+    },
+    {
+        "#": "417",
+        "no": "5828",
+        "romaji": "tsukeru(denkio)",
+        "kana": "つける（でんきを）",
+        "kanji": "つける（電気を）",
+        "meaning_mm": "မီးကိုဖွင့်သည်"
+    },
+    {
+        "#": "418",
+        "no": "5851",
+        "romaji": "tsutomeru",
+        "kana": "つとめる",
+        "kanji": "勤める",
+        "meaning_mm": "အလုပ်လုပ်သည်"
+    },
+    {
+        "#": "419",
+        "no": "5879",
+        "romaji": "tsumaranai",
+        "kana": "つまらない",
+        "kanji": "",
+        "meaning_mm": "ငြီးငွေ့စရာကောင်းသော"
+    },
+    {
+        "#": "420",
+        "no": "5886",
+        "romaji": "tsumetai",
+        "kana": "つめたい",
+        "kanji": "冷たい",
+        "meaning_mm": "အေးသော"
+    },
+    {
+        "#": "421",
+        "no": "5893",
+        "romaji": "tsuyoi",
+        "kana": "つよい",
+        "kanji": "強い",
+        "meaning_mm": "အားကောင်းသော"
+    },
+    {
+        "#": "422",
+        "no": "5913",
+        "romaji": "te",
+        "kana": "て",
+        "kanji": "手",
+        "meaning_mm": "လက်"
+    },
+    {
+        "#": "423",
+        "no": "5964",
+        "romaji": "tēpu",
+        "kana": "テープ",
+        "kanji": "tape",
+        "meaning_mm": "တိတ်(ကတ်ဆက်တိတ်)"
+    },
+    {
+        "#": "424",
+        "no": "5965",
+        "romaji": "tēburu",
+        "kana": "テーブル",
+        "kanji": "table",
+        "meaning_mm": "စာကြည့်စားပွဲခုံ၊ ထမင်းစားရန်ခုံ"
+    },
+    {
+        "#": "425",
+        "no": "5966",
+        "romaji": "tēpurekōdā",
+        "kana": "テープレコーダー",
+        "kanji": "tape recorder",
+        "meaning_mm": "အသံဖမ်းစက်"
+    },
+    {
+        "#": "426",
+        "no": "5972",
+        "romaji": "dekakeru",
+        "kana": "でかける",
+        "kanji": "出かける",
+        "meaning_mm": "အပြင်ထွက်သည်"
+    },
+    {
+        "#": "427",
+        "no": "5974",
+        "romaji": "tegami",
+        "kana": "てがみ",
+        "kanji": "手紙",
+        "meaning_mm": "စာ"
+    },
+    {
+        "#": "428",
+        "no": "5993",
+        "romaji": "dekiru(eigoga)",
+        "kana": "できる（えいごが）",
+        "kanji": "出来る（英語が）",
+        "meaning_mm": "လုပ််နိုင်သည်၊ တက်နိုင်သည်"
+    },
+    {
+        "#": "429",
+        "no": "5994",
+        "romaji": "dekiru(misega)",
+        "kana": "できる（みせが）",
+        "kanji": "出来る（店が）",
+        "meaning_mm": "ဆိုင်ကပေါ်ပေါက်လာသည်"
+    },
+    {
+        "#": "430",
+        "no": "5998",
+        "romaji": "ideguchi",
+        "kana": "いでぐち",
+        "kanji": "出口",
+        "meaning_mm": "ထွက်ပေါက်"
+    },
+    {
+        "#": "431",
+        "no": "6017",
+        "romaji": "tesuto",
+        "kana": "テスト",
+        "kanji": "test",
+        "meaning_mm": "စာမေးပွဲ"
+    },
+    {
+        "#": "432",
+        "no": "6043",
+        "romaji": "dewa",
+        "kana": "では",
+        "kanji": "",
+        "meaning_mm": "ဒီလိုဆိုရင်"
+    },
+    {
+        "#": "433",
+        "no": "6044",
+        "romaji": "depāto",
+        "kana": "デパート",
+        "kanji": "department store",
+        "meaning_mm": "ကုန်စုံဆိုင်"
+    },
+    {
+        "#": "434",
+        "no": "6056",
+        "romaji": "demo",
+        "kana": "でも",
+        "kanji": "",
+        "meaning_mm": "ဒါပေမဲ့"
+    },
+    {
+        "#": "435",
+        "no": "6065",
+        "romaji": "deru",
+        "kana": "でる",
+        "kanji": "出る",
+        "meaning_mm": "ထွက်သည်"
+    },
+    {
+        "#": "436",
+        "no": "6067",
+        "romaji": "terebijon",
+        "kana": "テレビジョン",
+        "kanji": "television",
+        "meaning_mm": "တယ်လီဗေးရှင်း"
+    },
+    {
+        "#": "437",
+        "no": "6080",
+        "romaji": "tenki",
+        "kana": "てんき",
+        "kanji": "天気",
+        "meaning_mm": "ရာသီဥတု"
+    },
+    {
+        "#": "438",
+        "no": "6082",
+        "romaji": "denki",
+        "kana": "でんき",
+        "kanji": "電気",
+        "meaning_mm": "လျှပ်စစ်"
+    },
+    {
+        "#": "439",
+        "no": "6101",
+        "romaji": "densha",
+        "kana": "でんしゃ",
+        "kanji": "電車",
+        "meaning_mm": "ဓါတ်ရထား"
+    },
+    {
+        "#": "440",
+        "no": "6146",
+        "romaji": "denwa(suru)",
+        "kana": "でんわ（する）",
+        "kanji": "電話（する）",
+        "meaning_mm": "တယ်လီဖုန်း"
+    },
+    {
+        "#": "441",
+        "no": "6148",
+        "romaji": "to",
+        "kana": "と",
+        "kanji": "戸",
+        "meaning_mm": "တံခါးရွက်"
+    },
+    {
+        "#": "442",
+        "no": "6149",
+        "romaji": "do",
+        "kana": "ど",
+        "kanji": "度",
+        "meaning_mm": "အကြိမ်အရေအတွက်"
+    },
+    {
+        "#": "443",
+        "no": "6150",
+        "romaji": "doa",
+        "kana": "ドア",
+        "kanji": "door",
+        "meaning_mm": "တံခါး"
+    },
+    {
+        "#": "444",
+        "no": "6156",
+        "romaji": "toire",
+        "kana": "トイレ",
+        "kanji": "toilet",
+        "meaning_mm": "အိမ််သာ"
+    },
+    {
+        "#": "445",
+        "no": "6166",
+        "romaji": "dōitashimashite",
+        "kana": "どういたしまして",
+        "kanji": "",
+        "meaning_mm": "ရပါတယ်၊ ကိစ္စမရှိပါဘူး"
+    },
+    {
+        "#": "446",
+        "no": "6202",
+        "romaji": "dōshite",
+        "kana": "どうして",
+        "kanji": "",
+        "meaning_mm": "ဘာကြောင့်"
+    },
+    {
+        "#": "447",
+        "no": "6217",
+        "romaji": "dōzo",
+        "kana": "どうぞ",
+        "kanji": "",
+        "meaning_mm": "ကျေးဇူးပြု၍"
+    },
+    {
+        "#": "448",
+        "no": "6222",
+        "romaji": "dōzoyoroshiku",
+        "kana": "どうぞよろしく",
+        "kanji": "どうぞ宜しく",
+        "meaning_mm": "တွေ့ရတာဝမ်းသာပါတယ်"
+    },
+    {
+        "#": "449",
+        "no": "6247",
+        "romaji": "dōbutsu",
+        "kana": "どうぶつ",
+        "kanji": "動物",
+        "meaning_mm": "တိရိစ္ဆာန်"
+    },
+    {
+        "#": "450",
+        "no": "6257",
+        "romaji": "dōmo",
+        "kana": "どうも",
+        "kanji": "",
+        "meaning_mm": "ကြည့်ရတာ"
+    },
+    {
+        "#": "451",
+        "no": "6258",
+        "romaji": "dōmoarigatō",
+        "kana": "どうもありがとう",
+        "kanji": "",
+        "meaning_mm": "ကျေးဇူးအများကြီးတင်ပါတယ်"
+    },
+    {
+        "#": "452",
+        "no": "6273",
+        "romaji": "jū",
+        "kana": "じゅう",
+        "kanji": "十",
+        "meaning_mm": "တစ်ဆယ်"
+    },
+    {
+        "#": "453",
+        "no": "6274",
+        "romaji": "tōi",
+        "kana": "とおい",
+        "kanji": "遠い",
+        "meaning_mm": "ဝေးသော"
+    },
+    {
+        "#": "454",
+        "no": "6275",
+        "romaji": "jūnichi",
+        "kana": "じゅうにち",
+        "kanji": "十日",
+        "meaning_mm": "ဆယ်ရက်"
+    },
+    {
+        "#": "455",
+        "no": "6295",
+        "romaji": "tokidoki",
+        "kana": "ときどき",
+        "kanji": "時々",
+        "meaning_mm": "တခါတရံ"
+    },
+    {
+        "#": "456",
+        "no": "6334",
+        "romaji": "tokei",
+        "kana": "とけい",
+        "kanji": "時計",
+        "meaning_mm": "နာရီ"
+    },
+    {
+        "#": "457",
+        "no": "6340",
+        "romaji": "doko",
+        "kana": "どこ",
+        "kanji": "",
+        "meaning_mm": "ဘယ်နေရာ"
+    },
+    {
+        "#": "458",
+        "no": "6345",
+        "romaji": "tokoro",
+        "kana": "ところ",
+        "kanji": "所",
+        "meaning_mm": "နေရာ"
+    },
+    {
+        "#": "459",
+        "no": "6353",
+        "romaji": "toshi",
+        "kana": "とし",
+        "kanji": "年",
+        "meaning_mm": "အသက်အရွယ်"
+    },
+    {
+        "#": "460",
+        "no": "6362",
+        "romaji": "toshokan",
+        "kana": "としょかん",
+        "kanji": "図書館",
+        "meaning_mm": "စာကြည့်တိုက်"
+    },
+    {
+        "#": "461",
+        "no": "6374",
+        "romaji": "dochira",
+        "kana": "どちら",
+        "kanji": "",
+        "meaning_mm": "ဘယ်ဟာ၊ ဘယ်အရာ"
+    },
+    {
+        "#": "462",
+        "no": "6391",
+        "romaji": "totemo",
+        "kana": "とても",
+        "kanji": "",
+        "meaning_mm": "အလွန်၊ လုံးဝ...ဘူး"
+    },
+    {
+        "#": "463",
+        "no": "6402",
+        "romaji": "donata",
+        "kana": "どなた",
+        "kanji": "",
+        "meaning_mm": "ဘယ်သူ"
+    },
+    {
+        "#": "464",
+        "no": "6403",
+        "romaji": "tonari",
+        "kana": "となり",
+        "kanji": "隣",
+        "meaning_mm": "အနီးအနား၊ ဘေးချင်းကပ်၊ ကပ်လျက်"
+    },
+    {
+        "#": "465",
+        "no": "6416",
+        "romaji": "tobu",
+        "kana": "とぶ",
+        "kanji": "飛ぶ",
+        "meaning_mm": "ပျံသန်းသည်"
+    },
+    {
+        "#": "466",
+        "no": "6426",
+        "romaji": "tomaru",
+        "kana": "とまる",
+        "kanji": "止まる",
+        "meaning_mm": "ရပ်သည်"
+    },
+    {
+        "#": "467",
+        "no": "6436",
+        "romaji": "tomodachi",
+        "kana": "ともだち",
+        "kanji": "友達",
+        "meaning_mm": "သူငယ်ချင်း"
+    },
+    {
+        "#": "468",
+        "no": "6441",
+        "romaji": "doyōbi",
+        "kana": "どようび",
+        "kanji": "土曜日",
+        "meaning_mm": "စနေနေ့"
+    },
+    {
+        "#": "469",
+        "no": "6456",
+        "romaji": "tori",
+        "kana": "とり",
+        "kanji": "鳥",
+        "meaning_mm": "ငှက်"
+    },
+    {
+        "#": "470",
+        "no": "6488",
+        "romaji": "toru",
+        "kana": "とる",
+        "kanji": "取る",
+        "meaning_mm": "ယူသည်"
+    },
+    {
+        "#": "471",
+        "no": "6489",
+        "romaji": "toru",
+        "kana": "とる",
+        "kanji": "撮る",
+        "meaning_mm": "ဓါတ်ပုံ၊ ဗီဒီယိုရိုက်သည်"
+    },
+    {
+        "#": "472",
+        "no": "6490",
+        "romaji": "dore",
+        "kana": "どれ",
+        "kanji": "",
+        "meaning_mm": "ဘယ်ဟာ"
+    },
+    {
+        "#": "473",
+        "no": "6507",
+        "romaji": "donna",
+        "kana": "どんな",
+        "kanji": "",
+        "meaning_mm": "ဘယ်လို"
+    },
+    {
+        "#": "474",
+        "no": "6513",
+        "romaji": "nai",
+        "kana": "ない",
+        "kanji": "無い",
+        "meaning_mm": "မရှိဘူး"
+    },
+    {
+        "#": "475",
+        "no": "6522",
+        "romaji": "naifu",
+        "kana": "ナイフ",
+        "kanji": "knife",
+        "meaning_mm": "ဓါး"
+    },
+    {
+        "#": "476",
+        "no": "6537",
+        "romaji": "naka",
+        "kana": "なか",
+        "kanji": "中",
+        "meaning_mm": "အတွင်း၊ အထဲ"
+    },
+    {
+        "#": "477",
+        "no": "6538",
+        "romaji": "nagai",
+        "kana": "ながい",
+        "kanji": "長い",
+        "meaning_mm": "ရှည်သော"
+    },
+    {
+        "#": "478",
+        "no": "6556",
+        "romaji": "〜nagara",
+        "kana": "〜ながら",
+        "kanji": "",
+        "meaning_mm": "...လုပ်ရင်း၊ ...ပေမယ့်"
+    },
+    {
+        "#": "479",
+        "no": "6562",
+        "romaji": "naku",
+        "kana": "なく",
+        "kanji": "鳴く",
+        "meaning_mm": "အော်မြည်သည်"
+    },
+    {
+        "#": "480",
+        "no": "6565",
+        "romaji": "shitsukusu",
+        "kana": "しつくす",
+        "kanji": "失くす",
+        "meaning_mm": "ဆုံးရှုံးသည်"
+    },
+    {
+        "#": "481",
+        "no": "6584",
+        "romaji": "naze",
+        "kana": "なぜ",
+        "kanji": "",
+        "meaning_mm": "ဘာကြောင့်"
+    },
+    {
+        "#": "482",
+        "no": "6592",
+        "romaji": "natsu",
+        "kana": "なつ",
+        "kanji": "夏",
+        "meaning_mm": "နွေရာသီ"
+    },
+    {
+        "#": "483",
+        "no": "6597",
+        "romaji": "natsuyasumi",
+        "kana": "なつやすみ",
+        "kanji": "夏休み",
+        "meaning_mm": "နွေရာသီပိတ်ရက်"
+    },
+    {
+        "#": "484",
+        "no": "6599",
+        "romaji": "〜nado",
+        "kana": "〜など",
+        "kanji": "",
+        "meaning_mm": "အစရှိသည်"
+    },
+    {
+        "#": "485",
+        "no": "6601",
+        "romaji": "nanatsu",
+        "kana": "ななつ",
+        "kanji": "七つ",
+        "meaning_mm": "ခုနစ််ခု"
+    },
+    {
+        "#": "486",
+        "no": "6603",
+        "romaji": "nani/nan",
+        "kana": "なに／なん",
+        "kanji": "何",
+        "meaning_mm": "ဘာ"
+    },
+    {
+        "#": "487",
+        "no": "6613",
+        "romaji": "nananichi",
+        "kana": "ななにち",
+        "kanji": "七日",
+        "meaning_mm": "ခုနစ်ရက်နေ့"
+    },
+    {
+        "#": "488",
+        "no": "6619",
+        "romaji": "namae",
+        "kana": "なまえ",
+        "kanji": "名前",
+        "meaning_mm": "အမည််"
+    },
+    {
+        "#": "489",
+        "no": "6640",
+        "romaji": "narau",
+        "kana": "ならう",
+        "kanji": "習う",
+        "meaning_mm": "သင်ယူသည်"
+    },
+    {
+        "#": "490",
+        "no": "6644",
+        "romaji": "narabu",
+        "kana": "ならぶ",
+        "kanji": "並ぶ",
+        "meaning_mm": "တန်းစီသည်"
+    },
+    {
+        "#": "491",
+        "no": "6645",
+        "romaji": "naraberu",
+        "kana": "ならべる",
+        "kanji": "並べる",
+        "meaning_mm": "စီတန်းသည်"
+    },
+    {
+        "#": "492",
+        "no": "6647",
+        "romaji": "naru",
+        "kana": "なる",
+        "kanji": "",
+        "meaning_mm": "ဖြစ်လာသည်"
+    },
+    {
+        "#": "493",
+        "no": "6679",
+        "romaji": "ni",
+        "kana": "に",
+        "kanji": "二",
+        "meaning_mm": "နှစ်(ဂဏန်း)"
+    },
+    {
+        "#": "494",
+        "no": "6694",
+        "romaji": "nigiyaka(na)",
+        "kana": "にぎやか（な）",
+        "kanji": "賑やか（な）",
+        "meaning_mm": "ဆူညံသော၊ စည်ကားသော"
+    },
+    {
+        "#": "495",
+        "no": "6697",
+        "romaji": "niku",
+        "kana": "にく",
+        "kanji": "肉",
+        "meaning_mm": "အသား"
+    },
+    {
+        "#": "496",
+        "no": "6712",
+        "romaji": "nishi",
+        "kana": "にし",
+        "kanji": "西",
+        "meaning_mm": "အနောက်"
+    },
+    {
+        "#": "497",
+        "no": "6722",
+        "romaji": "nichiyōbi",
+        "kana": "にちようび",
+        "kanji": "日曜日",
+        "meaning_mm": "တနင်္ဂနွေ"
+    },
+    {
+        "#": "498",
+        "no": "6734",
+        "romaji": "nippon/nihon",
+        "kana": "にっぽん／にほん",
+        "kanji": "日本",
+        "meaning_mm": "ဂျပန်"
+    },
+    {
+        "#": "499",
+        "no": "6740",
+        "romaji": "nimotsu",
+        "kana": "にもつ",
+        "kanji": "荷物",
+        "meaning_mm": "ပစ္စည်းထုတ်၊ ပါဆယ်ထုတ်"
+    },
+    {
+        "#": "500",
+        "no": "6753",
+        "romaji": "nyūsu",
+        "kana": "ニュース",
+        "kanji": "news",
+        "meaning_mm": "သတင်း"
+    },
+    {
+        "#": "501",
+        "no": "6765",
+        "romaji": "niwa",
+        "kana": "にわ",
+        "kanji": "庭",
+        "meaning_mm": "ခြံ၊ ကိုယ်ပိုင်ပန်းခြံ"
+    },
+    {
+        "#": "502",
+        "no": "6787",
+        "romaji": "nugu",
+        "kana": "ぬぐ",
+        "kanji": "脱ぐ",
+        "meaning_mm": "ချွတ်သည်"
+    },
+    {
+        "#": "503",
+        "no": "6797",
+        "romaji": "nukui",
+        "kana": "ぬくい",
+        "kanji": "温い",
+        "meaning_mm": "နွေးသော၊ မပူသော"
+    },
+    {
+        "#": "504",
+        "no": "6799",
+        "romaji": "ne",
+        "kana": "ね",
+        "kanji": "",
+        "meaning_mm": "ဟဲ့၊ နော်၊ ဟယ်"
+    },
+    {
+        "#": "505",
+        "no": "6811",
+        "romaji": "nekutai",
+        "kana": "ネクタイ",
+        "kanji": "necktie",
+        "meaning_mm": "နက်ကတိုင်"
+    },
+    {
+        "#": "506",
+        "no": "6812",
+        "romaji": "neko",
+        "kana": "ねこ",
+        "kanji": "猫",
+        "meaning_mm": "ကြောင်"
+    },
+    {
+        "#": "507",
+        "no": "6848",
+        "romaji": "neru",
+        "kana": "ねる",
+        "kanji": "寝る",
+        "meaning_mm": "အိပ်သည်"
+    },
+    {
+        "#": "508",
+        "no": "6895",
+        "romaji": "nōto",
+        "kana": "ノート",
+        "kanji": "note",
+        "meaning_mm": "မှတ်စုစာအုပ်"
+    },
+    {
+        "#": "509",
+        "no": "6929",
+        "romaji": "noboru",
+        "kana": "のぼる",
+        "kanji": "登る",
+        "meaning_mm": "တက်သည်(တောင်)"
+    },
+    {
+        "#": "510",
+        "no": "6933",
+        "romaji": "nomimono",
+        "kana": "のみもの",
+        "kanji": "飲み物",
+        "meaning_mm": "သောက်စရာ"
+    },
+    {
+        "#": "511",
+        "no": "6935",
+        "romaji": "nomu",
+        "kana": "のむ",
+        "kanji": "飲む",
+        "meaning_mm": "သောက်သည်"
+    },
+    {
+        "#": "512",
+        "no": "6946",
+        "romaji": "noru",
+        "kana": "のる",
+        "kanji": "乗る",
+        "meaning_mm": "စီးသည်"
+    },
+    {
+        "#": "513",
+        "no": "6953",
+        "romaji": "ha",
+        "kana": "は",
+        "kanji": "歯",
+        "meaning_mm": "သွား"
+    },
+    {
+        "#": "514",
+        "no": "6962",
+        "romaji": "pātī",
+        "kana": "パーティー",
+        "kanji": "party",
+        "meaning_mm": "ပါတီ"
+    },
+    {
+        "#": "515",
+        "no": "6968",
+        "romaji": "〜hai",
+        "kana": "〜はい",
+        "kanji": "〜杯",
+        "meaning_mm": "~ခွက်"
+    },
+    {
+        "#": "516",
+        "no": "6986",
+        "romaji": "haizara",
+        "kana": "はいざら",
+        "kanji": "灰皿",
+        "meaning_mm": "ဆေးလိပ်ပြာခွက်"
+    },
+    {
+        "#": "517",
+        "no": "7009",
+        "romaji": "hairu",
+        "kana": "はいる",
+        "kanji": "入る",
+        "meaning_mm": "ဝင်သည်"
+    },
+    {
+        "#": "518",
+        "no": "7012",
+        "romaji": "pain(painappuru)",
+        "kana": "パイン（パイナップル）",
+        "kanji": "pineapple",
+        "meaning_mm": "နာနတ်သီး"
+    },
+    {
+        "#": "519",
+        "no": "7019",
+        "romaji": "hagaki",
+        "kana": "はがき",
+        "kanji": "葉書",
+        "meaning_mm": "ပို့စကဒ်"
+    },
+    {
+        "#": "520",
+        "no": "7069",
+        "romaji": "hako",
+        "kana": "はこ",
+        "kanji": "箱",
+        "meaning_mm": "သေတ္တာ၊ ပုံး၊ ဗူး"
+    },
+    {
+        "#": "521",
+        "no": "7072",
+        "romaji": "hasami",
+        "kana": "はさみ",
+        "kanji": "",
+        "meaning_mm": "ကပ်ကြေး"
+    },
+    {
+        "#": "522",
+        "no": "7076",
+        "romaji": "hashi",
+        "kana": "はし",
+        "kanji": "橋",
+        "meaning_mm": "တံတား"
+    },
+    {
+        "#": "523",
+        "no": "7077",
+        "romaji": "hashi",
+        "kana": "はし",
+        "kanji": "箸",
+        "meaning_mm": "တူ"
+    },
+    {
+        "#": "524",
+        "no": "7083",
+        "romaji": "hajimaru",
+        "kana": "はじまる",
+        "kanji": "始まる",
+        "meaning_mm": "စတင်သည်"
+    },
+    {
+        "#": "525",
+        "no": "7084",
+        "romaji": "hajime",
+        "kana": "はじめ",
+        "kanji": "始め",
+        "meaning_mm": "အစ"
+    },
+    {
+        "#": "526",
+        "no": "7085",
+        "romaji": "hajimete",
+        "kana": "はじめて",
+        "kanji": "初めて",
+        "meaning_mm": "ပထမဦးဆုံးအကြိမ်"
+    },
+    {
+        "#": "527",
+        "no": "7086",
+        "romaji": "hajimeni",
+        "kana": "はじめに",
+        "kanji": "",
+        "meaning_mm": "ပထမဦးစွာ"
+    },
+    {
+        "#": "528",
+        "no": "7087",
+        "romaji": "hajimemashite",
+        "kana": "はじめまして",
+        "kanji": "始めまして",
+        "meaning_mm": "တွေ့ရတာဝမ်းသာပါတယ်"
+    },
+    {
+        "#": "529",
+        "no": "7098",
+        "romaji": "basu",
+        "kana": "バス",
+        "kanji": "bus",
+        "meaning_mm": "ဘတ်စ်ကား"
+    },
+    {
+        "#": "530",
+        "no": "7100",
+        "romaji": "〜hazudesu",
+        "kana": "〜はずです",
+        "kanji": "〜筈です",
+        "meaning_mm": "~မှာပဲ၊ ~မှာသေချာသည်"
+    },
+    {
+        "#": "531",
+        "no": "7111",
+        "romaji": "batā",
+        "kana": "バター",
+        "kanji": "butter",
+        "meaning_mm": "ထောပတ်"
+    },
+    {
+        "#": "532",
+        "no": "7112",
+        "romaji": "batā",
+        "kana": "バター",
+        "kanji": "butter",
+        "meaning_mm": "ထောပတ်"
+    },
+    {
+        "#": "533",
+        "no": "7121",
+        "romaji": "nijūsai",
+        "kana": "にじゅうさい",
+        "kanji": "二十歳",
+        "meaning_mm": "အသက်၂၀"
+    },
+    {
+        "#": "534",
+        "no": "7125",
+        "romaji": "hataraku",
+        "kana": "はたらく",
+        "kanji": "働く",
+        "meaning_mm": "အလုပ်လုပ်သည်"
+    },
+    {
+        "#": "535",
+        "no": "7127",
+        "romaji": "hachi",
+        "kana": "はち",
+        "kanji": "八",
+        "meaning_mm": "ရှစ်"
+    },
+    {
+        "#": "536",
+        "no": "7135",
+        "romaji": "nijūnichi",
+        "kana": "にじゅうにち",
+        "kanji": "二十日",
+        "meaning_mm": "(၂၀)ရက်"
+    },
+    {
+        "#": "537",
+        "no": "7179",
+        "romaji": "hana",
+        "kana": "はな",
+        "kanji": "花",
+        "meaning_mm": "ပန်း"
+    },
+    {
+        "#": "538",
+        "no": "7180",
+        "romaji": "hana",
+        "kana": "はな",
+        "kanji": "鼻",
+        "meaning_mm": "နှာခေါင်း"
+    },
+    {
+        "#": "539",
+        "no": "7181",
+        "romaji": "hanashi",
+        "kana": "はなし",
+        "kanji": "話",
+        "meaning_mm": "စကား"
+    },
+    {
+        "#": "540",
+        "no": "7187",
+        "romaji": "hanasu",
+        "kana": "はなす",
+        "kanji": "話す",
+        "meaning_mm": "စကားပြောသည်"
+    },
+    {
+        "#": "541",
+        "no": "7189",
+        "romaji": "banana",
+        "kana": "バナナ",
+        "kanji": "banana",
+        "meaning_mm": "ငှက်ပျော်သီး"
+    },
+    {
+        "#": "542",
+        "no": "7203",
+        "romaji": "haha",
+        "kana": "はは",
+        "kanji": "母",
+        "meaning_mm": "အမေ"
+    },
+    {
+        "#": "543",
+        "no": "7216",
+        "romaji": "hayai",
+        "kana": "はやい",
+        "kanji": "早い",
+        "meaning_mm": "စောသော"
+    },
+    {
+        "#": "544",
+        "no": "7217",
+        "romaji": "hayai",
+        "kana": "はやい",
+        "kanji": "速い",
+        "meaning_mm": "မြန်သော"
+    },
+    {
+        "#": "545",
+        "no": "7242",
+        "romaji": "haru",
+        "kana": "はる",
+        "kanji": "春",
+        "meaning_mm": "နွေဦးပေါက်ရာသီ"
+    },
+    {
+        "#": "546",
+        "no": "7243",
+        "romaji": "haru",
+        "kana": "はる",
+        "kanji": "貼る",
+        "meaning_mm": "ကပ်သည်"
+    },
+    {
+        "#": "547",
+        "no": "7247",
+        "romaji": "hare",
+        "kana": "はれ",
+        "kanji": "晴れ",
+        "meaning_mm": "နေသာခြင်း"
+    },
+    {
+        "#": "548",
+        "no": "7251",
+        "romaji": "hareru",
+        "kana": "はれる",
+        "kanji": "晴れる",
+        "meaning_mm": "ရာသီဥတုသာယာသည်"
+    },
+    {
+        "#": "549",
+        "no": "7258",
+        "romaji": "ban",
+        "kana": "ばん",
+        "kanji": "晩",
+        "meaning_mm": "ည"
+    },
+    {
+        "#": "550",
+        "no": "7259",
+        "romaji": "ban",
+        "kana": "ばん",
+        "kanji": "番",
+        "meaning_mm": "အစောင့်၊ အလှည့်"
+    },
+    {
+        "#": "551",
+        "no": "7260",
+        "romaji": "pan",
+        "kana": "パン",
+        "kanji": "bun",
+        "meaning_mm": "ပေါင်မုန့်"
+    },
+    {
+        "#": "552",
+        "no": "7267",
+        "romaji": "hankachi",
+        "kana": "ハンカチ",
+        "kanji": "handkerchief",
+        "meaning_mm": "လက်ကိုင်ပုဝါ"
+    },
+    {
+        "#": "553",
+        "no": "7277",
+        "romaji": "bangō",
+        "kana": "ばんごう",
+        "kanji": "番号",
+        "meaning_mm": "အမှတ်စဥ်၊ နံပါတ်"
+    },
+    {
+        "#": "554",
+        "no": "7279",
+        "romaji": "bangohan",
+        "kana": "ばんごはん",
+        "kanji": "晩御飯",
+        "meaning_mm": "ညစာ"
+    },
+    {
+        "#": "555",
+        "no": "7336",
+        "romaji": "higashi",
+        "kana": "ひがし",
+        "kanji": "東",
+        "meaning_mm": "အရှေ့ဘက်"
+    },
+    {
+        "#": "556",
+        "no": "7342",
+        "romaji": "〜hiki",
+        "kana": "〜ひき",
+        "kanji": "〜匹",
+        "meaning_mm": "~ကောင်(သေးငယ်သောတိရိစ္ဆာန်ကိုရေတွက်ခြင်း)"
+    },
+    {
+        "#": "557",
+        "no": "7361",
+        "romaji": "hiku",
+        "kana": "ひく",
+        "kanji": "引く",
+        "meaning_mm": "ဆွဲသည်"
+    },
+    {
+        "#": "558",
+        "no": "7362",
+        "romaji": "hiku",
+        "kana": "ひく",
+        "kanji": "弾く",
+        "meaning_mm": "တီးမှုတ်သည်"
+    },
+    {
+        "#": "559",
+        "no": "7363",
+        "romaji": "hikui",
+        "kana": "ひくい",
+        "kanji": "低い",
+        "meaning_mm": "နိမ့်သော"
+    },
+    {
+        "#": "560",
+        "no": "7371",
+        "romaji": "hikōki",
+        "kana": "ひこうき",
+        "kanji": "飛行機",
+        "meaning_mm": "လေယာဥ်ပျံ"
+    },
+    {
+        "#": "561",
+        "no": "7402",
+        "romaji": "hidari",
+        "kana": "ひだり",
+        "kanji": "左",
+        "meaning_mm": "လက်ဝဲ၊ ဘယ်ဘက်"
+    },
+    {
+        "#": "562",
+        "no": "7434",
+        "romaji": "hito",
+        "kana": "ひと",
+        "kanji": "人",
+        "meaning_mm": "လူ"
+    },
+    {
+        "#": "563",
+        "no": "7449",
+        "romaji": "hitotsu",
+        "kana": "ひとつ",
+        "kanji": "一つ",
+        "meaning_mm": "တစ်ခု"
+    },
+    {
+        "#": "564",
+        "no": "7460",
+        "romaji": "ichinin(de)",
+        "kana": "いちにん（で）",
+        "kanji": "一人（で）",
+        "meaning_mm": "တစ်ယောက်"
+    },
+    {
+        "#": "565",
+        "no": "7487",
+        "romaji": "hima(na)",
+        "kana": "ひま（な）",
+        "kanji": "暇（な）",
+        "meaning_mm": "အားလပ်သော"
+    },
+    {
+        "#": "566",
+        "no": "7496",
+        "romaji": "hyaku",
+        "kana": "ひゃく",
+        "kanji": "百",
+        "meaning_mm": "တစ်ရာ"
+    },
+    {
+        "#": "567",
+        "no": "7507",
+        "romaji": "byōin",
+        "kana": "びょういん",
+        "kanji": "病院",
+        "meaning_mm": "ဆေးရုံ"
+    },
+    {
+        "#": "568",
+        "no": "7509",
+        "romaji": "byōki",
+        "kana": "びょうき",
+        "kanji": "病気",
+        "meaning_mm": "ရောဂါ"
+    },
+    {
+        "#": "569",
+        "no": "7540",
+        "romaji": "hiru",
+        "kana": "ひる",
+        "kanji": "昼",
+        "meaning_mm": "နေ့လယ်"
+    },
+    {
+        "#": "570",
+        "no": "7543",
+        "romaji": "hirugohan",
+        "kana": "ひるごはん",
+        "kanji": "昼御飯",
+        "meaning_mm": "နေ့လယ်စာ"
+    },
+    {
+        "#": "571",
+        "no": "7551",
+        "romaji": "hiroi",
+        "kana": "ひろい",
+        "kanji": "広い",
+        "meaning_mm": "ကျယ်ပြန့်သော"
+    },
+    {
+        "#": "572",
+        "no": "7581",
+        "romaji": "pimpon",
+        "kana": "ピンポン",
+        "kanji": "ping-pong",
+        "meaning_mm": "စားပွဲတင်တင်းနစ်"
+    },
+    {
+        "#": "573",
+        "no": "7596",
+        "romaji": "firumu",
+        "kana": "フィルム",
+        "kanji": "film",
+        "meaning_mm": "ဖလင်"
+    },
+    {
+        "#": "574",
+        "no": "7609",
+        "romaji": "fūtō",
+        "kana": "ふうとう",
+        "kanji": "封筒",
+        "meaning_mm": "စာအိတ်"
+    },
+    {
+        "#": "575",
+        "no": "7613",
+        "romaji": "pōru",
+        "kana": "ポール",
+        "kanji": "pool",
+        "meaning_mm": "ရေကူးကန်"
+    },
+    {
+        "#": "576",
+        "no": "7621",
+        "romaji": "fōku",
+        "kana": "フォーク",
+        "kanji": "fork",
+        "meaning_mm": "ခက်ရင်း"
+    },
+    {
+        "#": "577",
+        "no": "7641",
+        "romaji": "fuku",
+        "kana": "ふく",
+        "kanji": "服",
+        "meaning_mm": "အဝတ်အစား"
+    },
+    {
+        "#": "578",
+        "no": "7644",
+        "romaji": "fuku(kazega)",
+        "kana": "ふく（かぜが）",
+        "kanji": "吹く（風が）",
+        "meaning_mm": "မှုတ်သည်၊ လေတိုက်သည်"
+    },
+    {
+        "#": "579",
+        "no": "7717",
+        "romaji": "futatsu",
+        "kana": "ふたつ",
+        "kanji": "二つ",
+        "meaning_mm": "နှစ်၊နှစ်ခု"
+    },
+    {
+        "#": "580",
+        "no": "7718",
+        "romaji": "butaniku",
+        "kana": "ぶたにく",
+        "kanji": "豚肉",
+        "meaning_mm": "ဝက်သား"
+    },
+    {
+        "#": "581",
+        "no": "7719",
+        "romaji": "ninin",
+        "kana": "ににん",
+        "kanji": "二人",
+        "meaning_mm": "နှစ်ယောက်"
+    },
+    {
+        "#": "582",
+        "no": "7730",
+        "romaji": "ninichi",
+        "kana": "ににち",
+        "kanji": "二日",
+        "meaning_mm": "နှစ်ရက်နေ့"
+    },
+    {
+        "#": "583",
+        "no": "7755",
+        "romaji": "futoi",
+        "kana": "ふとい",
+        "kanji": "太い",
+        "meaning_mm": "ဝသော၊တုတ်သော"
+    },
+    {
+        "#": "584",
+        "no": "7756",
+        "romaji": "budō",
+        "kana": "ぶどう",
+        "kanji": "葡萄",
+        "meaning_mm": "စပျစ်သီး"
+    },
+    {
+        "#": "585",
+        "no": "7790",
+        "romaji": "fuyu",
+        "kana": "ふゆ",
+        "kanji": "冬",
+        "meaning_mm": "ဆောင်းရာသီ"
+    },
+    {
+        "#": "586",
+        "no": "7829",
+        "romaji": "furu",
+        "kana": "ふる",
+        "kanji": "降る",
+        "meaning_mm": "မိုးရွာသည်"
+    },
+    {
+        "#": "587",
+        "no": "7832",
+        "romaji": "furui",
+        "kana": "ふるい",
+        "kanji": "古い",
+        "meaning_mm": "ဟောင်းသော"
+    },
+    {
+        "#": "588",
+        "no": "7847",
+        "romaji": "furo(ofuro)",
+        "kana": "ふろ（おふろ）",
+        "kanji": "風呂（お風呂）",
+        "meaning_mm": "ရေနွေးစိမ်ချိုးခန်း"
+    },
+    {
+        "#": "589",
+        "no": "7855",
+        "romaji": "furojō",
+        "kana": "ふろば",
+        "kanji": "風呂場",
+        "meaning_mm": "ရေချိုးခန်း"
+    },
+    {
+        "#": "590",
+        "no": "7859",
+        "romaji": "〜bun",
+        "kana": "〜ぶん",
+        "kanji": "〜分",
+        "meaning_mm": "မိနစ်"
+    },
+    {
+        "#": "591",
+        "no": "7882",
+        "romaji": "bunshō",
+        "kana": "ぶんしょう",
+        "kanji": "文章",
+        "meaning_mm": "စာကြောင်း"
+    },
+    {
+        "#": "592",
+        "no": "7930",
+        "romaji": "pēji",
+        "kana": "ページ",
+        "kanji": "page",
+        "meaning_mm": "စာမျက်နှာ"
+    },
+    {
+        "#": "593",
+        "no": "7940",
+        "romaji": "hetana",
+        "kana": "へた（な）",
+        "kanji": "下手（な）",
+        "meaning_mm": "ညံ့ဖျင်းသော"
+    },
+    {
+        "#": "594",
+        "no": "7950",
+        "romaji": "petto",
+        "kana": "ペット",
+        "kanji": "pet",
+        "meaning_mm": "အိမ်မွေးတိရစ္ဆာန်"
+    },
+    {
+        "#": "595",
+        "no": "7958",
+        "romaji": "heya",
+        "kana": "へや",
+        "kanji": "部屋",
+        "meaning_mm": "အခန်း"
+    },
+    {
+        "#": "596",
+        "no": "7971",
+        "romaji": "pen",
+        "kana": "ペン",
+        "kanji": "pen",
+        "meaning_mm": "ဖောင်တိန်"
+    },
+    {
+        "#": "597",
+        "no": "7972",
+        "romaji": "atari(konoatari)",
+        "kana": "あたり(このあたり)",
+        "kanji": "辺(この辺)",
+        "meaning_mm": "အလျား၊ဒီအနီးတဝိုက်၊အနား"
+    },
+    {
+        "#": "598",
+        "no": "7982",
+        "romaji": "benkyō(suru)",
+        "kana": "べんきょう（する）",
+        "kanji": "勉強（する）",
+        "meaning_mm": "စာဖတ်ခြင်း၊စာကျက်ခြင်း၊လေ့လာခြင်း"
+    },
+    {
+        "#": "599",
+        "no": "8003",
+        "romaji": "benri(na)",
+        "kana": "べんり（な）",
+        "kanji": "便利（な）",
+        "meaning_mm": "အဆင်ပြေသော"
+    },
+    {
+        "#": "600",
+        "no": "8041",
+        "romaji": "bōshi",
+        "kana": "ぼうし",
+        "kanji": "帽子",
+        "meaning_mm": "ဦးထုပ်"
+    },
+    {
+        "#": "601",
+        "no": "8104",
+        "romaji": "bōrupen",
+        "kana": "ボールペン",
+        "kanji": "ballpoint pen",
+        "meaning_mm": "ဘောပင်"
+    },
+    {
+        "#": "602",
+        "no": "8106",
+        "romaji": "soto/ta",
+        "kana": "そと／た",
+        "kanji": "外／他",
+        "meaning_mm": "တခြား"
+    },
+    {
+        "#": "603",
+        "no": "8122",
+        "romaji": "poketto",
+        "kana": "ポケット",
+        "kanji": "pocket",
+        "meaning_mm": "အင်္ကျီအိတ်၊အိတ်ကပ်"
+    },
+    {
+        "#": "604",
+        "no": "8138",
+        "romaji": "hoshii",
+        "kana": "ほしい",
+        "kanji": "欲しい",
+        "meaning_mm": "လိုချင်သော"
+    },
+    {
+        "#": "605",
+        "no": "8153",
+        "romaji": "posuto",
+        "kana": "ポスト",
+        "kanji": "post",
+        "meaning_mm": "စာထည့်ပုံး"
+    },
+    {
+        "#": "606",
+        "no": "8155",
+        "romaji": "hosoi",
+        "kana": "ほそい",
+        "kanji": "細い",
+        "meaning_mm": "သေးသွယ်သော"
+    },
+    {
+        "#": "607",
+        "no": "8160",
+        "romaji": "botan",
+        "kana": "ボタン",
+        "kanji": "button",
+        "meaning_mm": "ကြယ်သီး"
+    },
+    {
+        "#": "608",
+        "no": "8175",
+        "romaji": "hoteru",
+        "kana": "ホテル",
+        "kanji": "hotel",
+        "meaning_mm": "ဟိုတယ်"
+    },
+    {
+        "#": "609",
+        "no": "8213",
+        "romaji": "hon",
+        "kana": "ほん",
+        "kanji": "本",
+        "meaning_mm": "စာအုပ်"
+    },
+    {
+        "#": "610",
+        "no": "8214",
+        "romaji": "〜hon",
+        "kana": "〜ほん",
+        "kanji": "〜本",
+        "meaning_mm": "-ချောင်း၊-ပုလင်း(ရှည်လျားသောအရာကိုရေတွက်ခြင်း)"
+    },
+    {
+        "#": "611",
+        "no": "8227",
+        "romaji": "hondana",
+        "kana": "ほんだな",
+        "kanji": "本棚",
+        "meaning_mm": "စာအုပ်စင်"
+    },
+    {
+        "#": "612",
+        "no": "8229",
+        "romaji": "hontōni",
+        "kana": "ほんとうに",
+        "kanji": "本当に",
+        "meaning_mm": "တကယ်ပဲ"
+    },
+    {
+        "#": "613",
+        "no": "8242",
+        "romaji": "hon'ya",
+        "kana": "ほんや",
+        "kanji": "本屋",
+        "meaning_mm": "စာအုပ်ဆိုင်"
+    },
+    {
+        "#": "614",
+        "no": "8251",
+        "romaji": "〜mai",
+        "kana": "〜まい",
+        "kanji": "〜枚",
+        "meaning_mm": "-ရွက်"
+    },
+    {
+        "#": "615",
+        "no": "8253",
+        "romaji": "maiasa",
+        "kana": "まいあさ",
+        "kanji": "毎朝",
+        "meaning_mm": "မနက်တိုင်း"
+    },
+    {
+        "#": "616",
+        "no": "8255",
+        "romaji": "maitsuki",
+        "kana": "まいつき",
+        "kanji": "毎月",
+        "meaning_mm": "လတိုင်း"
+    },
+    {
+        "#": "617",
+        "no": "8257",
+        "romaji": "maishū",
+        "kana": "まいしゅう",
+        "kanji": "毎週",
+        "meaning_mm": "အပတ်တိုင်း"
+    },
+    {
+        "#": "618",
+        "no": "8264",
+        "romaji": "mainichi",
+        "kana": "まいにち",
+        "kanji": "毎日",
+        "meaning_mm": "နေ့တိုင်း"
+    },
+    {
+        "#": "619",
+        "no": "8265",
+        "romaji": "maitoshi",
+        "kana": "まいとし",
+        "kanji": "毎年",
+        "meaning_mm": "နှစ်တိုင်း"
+    },
+    {
+        "#": "620",
+        "no": "8266",
+        "romaji": "maiban",
+        "kana": "まいばん",
+        "kanji": "毎晩",
+        "meaning_mm": "ညတိုင်း"
+    },
+    {
+        "#": "621",
+        "no": "8270",
+        "romaji": "mae",
+        "kana": "まえ",
+        "kanji": "前",
+        "meaning_mm": "အရှေ့"
+    },
+    {
+        "#": "622",
+        "no": "8313",
+        "romaji": "mazui",
+        "kana": "まずい",
+        "kanji": "",
+        "meaning_mm": "အရသာမရှိသော"
+    },
+    {
+        "#": "623",
+        "no": "8320",
+        "romaji": "mata",
+        "kana": "また",
+        "kanji": "",
+        "meaning_mm": "တဖန်၊နောက်ထပ်"
+    },
+    {
+        "#": "624",
+        "no": "8322",
+        "romaji": "mada",
+        "kana": "まだ",
+        "kanji": "",
+        "meaning_mm": "မ....သေးဘူး၊ -နေတုန်း"
+    },
+    {
+        "#": "625",
+        "no": "8327",
+        "romaji": "machi",
+        "kana": "まち",
+        "kanji": "町",
+        "meaning_mm": "မြို့"
+    },
+    {
+        "#": "626",
+        "no": "8338",
+        "romaji": "matsu",
+        "kana": "まつ",
+        "kanji": "待つ",
+        "meaning_mm": "စောင့်သည်"
+    },
+    {
+        "#": "627",
+        "no": "8354",
+        "romaji": "matchi",
+        "kana": "マッチ",
+        "kanji": "match",
+        "meaning_mm": "မီးခြစ်"
+    },
+    {
+        "#": "628",
+        "no": "8400",
+        "romaji": "marui",
+        "kana": "まるい",
+        "kanji": "丸い",
+        "meaning_mm": "ဝိုင်းသော"
+    },
+    {
+        "#": "629",
+        "no": "8416",
+        "romaji": "ban",
+        "kana": "ばん",
+        "kanji": "万",
+        "meaning_mm": "သောင်း"
+    },
+    {
+        "#": "630",
+        "no": "8431",
+        "romaji": "mannenhitsu",
+        "kana": "まんねんひつ",
+        "kanji": "万年筆",
+        "meaning_mm": "ဖောင်တိန်"
+    },
+    {
+        "#": "631",
+        "no": "8450",
+        "romaji": "migaku",
+        "kana": "みがく",
+        "kanji": "磨く",
+        "meaning_mm": "ပွတ်တိုက်သည်"
+    },
+    {
+        "#": "632",
+        "no": "8456",
+        "romaji": "mikan",
+        "kana": "みかん",
+        "kanji": "蜜柑",
+        "meaning_mm": "လိမ္မော်သီး"
+    },
+    {
+        "#": "633",
+        "no": "8458",
+        "romaji": "migi",
+        "kana": "みぎ",
+        "kanji": "右",
+        "meaning_mm": "ညာဖက်"
+    },
+    {
+        "#": "634",
+        "no": "8469",
+        "romaji": "mijikai",
+        "kana": "みじかい",
+        "kanji": "短い",
+        "meaning_mm": "တိုသော"
+    },
+    {
+        "#": "635",
+        "no": "8476",
+        "romaji": "mizu",
+        "kana": "みず",
+        "kanji": "水",
+        "meaning_mm": "ရေ"
+    },
+    {
+        "#": "636",
+        "no": "8484",
+        "romaji": "mise",
+        "kana": "みせ",
+        "kanji": "店",
+        "meaning_mm": "ဆိုင်"
+    },
+    {
+        "#": "637",
+        "no": "8498",
+        "romaji": "michi",
+        "kana": "みち",
+        "kanji": "道",
+        "meaning_mm": "လမ်း"
+    },
+    {
+        "#": "638",
+        "no": "8505",
+        "romaji": "sannichi",
+        "kana": "さんにち",
+        "kanji": "三日",
+        "meaning_mm": "၃ရက်"
+    },
+    {
+        "#": "639",
+        "no": "8511",
+        "romaji": "mittsu",
+        "kana": "みっつ",
+        "kanji": "三つ",
+        "meaning_mm": "၃ခု"
+    },
+    {
+        "#": "640",
+        "no": "8521",
+        "romaji": "midori",
+        "kana": "みどり",
+        "kanji": "緑",
+        "meaning_mm": "အစိမ်းရောင်"
+    },
+    {
+        "#": "641",
+        "no": "8525",
+        "romaji": "minasan",
+        "kana": "みなさん",
+        "kanji": "皆さん",
+        "meaning_mm": "အားလုံး"
+    },
+    {
+        "#": "642",
+        "no": "8528",
+        "romaji": "minami",
+        "kana": "みなみ",
+        "kanji": "南",
+        "meaning_mm": "တောင်ဘက်"
+    },
+    {
+        "#": "643",
+        "no": "8553",
+        "romaji": "mimi",
+        "kana": "みみ",
+        "kanji": "耳",
+        "meaning_mm": "နား၊နားရွက်"
+    },
+    {
+        "#": "644",
+        "no": "8567",
+        "romaji": "miru",
+        "kana": "みる",
+        "kanji": "見る",
+        "meaning_mm": "ကြည့်သည်"
+    },
+    {
+        "#": "645",
+        "no": "8577",
+        "romaji": "mina",
+        "kana": "みな",
+        "kanji": "皆",
+        "meaning_mm": "အားလုံး"
+    },
+    {
+        "#": "646",
+        "no": "8580",
+        "romaji": "rokunichi",
+        "kana": "ろくにち",
+        "kanji": "六日",
+        "meaning_mm": "၆ရက်"
+    },
+    {
+        "#": "647",
+        "no": "8600",
+        "romaji": "mukō",
+        "kana": "むこう",
+        "kanji": "向こう",
+        "meaning_mm": "ဟိုဘက်"
+    },
+    {
+        "#": "648",
+        "no": "8619",
+        "romaji": "muzukashii",
+        "kana": "むずかしい",
+        "kanji": "難しい",
+        "meaning_mm": "ခက်ခဲသော"
+    },
+    {
+        "#": "649",
+        "no": "8637",
+        "romaji": "muttsu",
+        "kana": "むっつ",
+        "kanji": "六つ",
+        "meaning_mm": "၆ခု"
+    },
+    {
+        "#": "650",
+        "no": "8645",
+        "romaji": "mura",
+        "kana": "むら",
+        "kanji": "村",
+        "meaning_mm": "ရွာ"
+    },
+    {
+        "#": "651",
+        "no": "8656",
+        "romaji": "me",
+        "kana": "め",
+        "kanji": "目",
+        "meaning_mm": "မျက်လုံး"
+    },
+    {
+        "#": "652",
+        "no": "8686",
+        "romaji": "mētoru",
+        "kana": "メートル",
+        "kanji": "meter",
+        "meaning_mm": "မီတာ"
+    },
+    {
+        "#": "653",
+        "no": "8690",
+        "romaji": "megane",
+        "kana": "めがね",
+        "kanji": "眼鏡",
+        "meaning_mm": "မျက်မှန်"
+    },
+    {
+        "#": "654",
+        "no": "8729",
+        "romaji": "meron",
+        "kana": "メロン",
+        "kanji": "melon",
+        "meaning_mm": "သခွားမွှေးသီး"
+    },
+    {
+        "#": "655",
+        "no": "8747",
+        "romaji": "mō(mōhitotsu)",
+        "kana": "もう（もうひとつ）",
+        "kanji": "",
+        "meaning_mm": "နောက်တစ်ခု"
+    },
+    {
+        "#": "656",
+        "no": "8777",
+        "romaji": "mokuyōbi",
+        "kana": "もくようび",
+        "kanji": "木曜日",
+        "meaning_mm": "ကြာသပတေးနေ့"
+    },
+    {
+        "#": "657",
+        "no": "8790",
+        "romaji": "moshimoshi",
+        "kana": "もしもし",
+        "kanji": "",
+        "meaning_mm": "ဒီမယ်ဒီမယ်၊တဆိတ်လောက်၊ဟယ်လိုဟယ်လို"
+    },
+    {
+        "#": "658",
+        "no": "8801",
+        "romaji": "mochiron",
+        "kana": "もちろん",
+        "kanji": "勿論",
+        "meaning_mm": "ပြောစရာတောင်မလိုပါ၊...ပေါ့၊ဒါပေါ့"
+    },
+    {
+        "#": "659",
+        "no": "8802",
+        "romaji": "motsu",
+        "kana": "もつ",
+        "kanji": "持つ",
+        "meaning_mm": "ကိုင်ဆောင်သည်၊ပိုင်ဆိုင်သည်"
+    },
+    {
+        "#": "660",
+        "no": "8806",
+        "romaji": "motto",
+        "kana": "もっと",
+        "kanji": "",
+        "meaning_mm": "...ပို၍"
+    },
+    {
+        "#": "661",
+        "no": "8827",
+        "romaji": "mono",
+        "kana": "もの",
+        "kanji": "物",
+        "meaning_mm": "အရာဝတ္ထု၊ပစ္စည်း"
+    },
+    {
+        "#": "662",
+        "no": "8847",
+        "romaji": "momo",
+        "kana": "もも",
+        "kanji": "桃",
+        "meaning_mm": "မက်မွန်သီး"
+    },
+    {
+        "#": "663",
+        "no": "8863",
+        "romaji": "mon",
+        "kana": "もん",
+        "kanji": "門",
+        "meaning_mm": "တံခါး၊မုခ်ဝ"
+    },
+    {
+        "#": "664",
+        "no": "8870",
+        "romaji": "〜ya",
+        "kana": "〜や",
+        "kanji": "屋",
+        "meaning_mm": "ဆိုင်"
+    },
+    {
+        "#": "665",
+        "no": "8871",
+        "romaji": "yaoya",
+        "kana": "やおや",
+        "kanji": "八百屋",
+        "meaning_mm": "ဟင်းသီးဟင်းရွက်ဆိုင်"
+    },
+    {
+        "#": "666",
+        "no": "8903",
+        "romaji": "yasai",
+        "kana": "やさい",
+        "kanji": "野菜",
+        "meaning_mm": "ဟင်းသီးဟင်းရွက်"
+    },
+    {
+        "#": "667",
+        "no": "8904",
+        "romaji": "yasashii",
+        "kana": "やさしい",
+        "kanji": "易しい",
+        "meaning_mm": "လွယ်ကူသော"
+    },
+    {
+        "#": "668",
+        "no": "8910",
+        "romaji": "yasui",
+        "kana": "やすい",
+        "kanji": "安い",
+        "meaning_mm": "စျေးပေါသော"
+    },
+    {
+        "#": "669",
+        "no": "8913",
+        "romaji": "yasumi",
+        "kana": "やすみ",
+        "kanji": "休み",
+        "meaning_mm": "အားလပ်ရက်"
+    },
+    {
+        "#": "670",
+        "no": "8914",
+        "romaji": "yasumu",
+        "kana": "やすむ",
+        "kanji": "休む",
+        "meaning_mm": "အနားယူသည်"
+    },
+    {
+        "#": "671",
+        "no": "8924",
+        "romaji": "yattsu",
+        "kana": "やっつ",
+        "kanji": "八つ",
+        "meaning_mm": "ရှစ်ခု"
+    },
+    {
+        "#": "672",
+        "no": "8940",
+        "romaji": "yama",
+        "kana": "やま",
+        "kanji": "山",
+        "meaning_mm": "တောင်"
+    },
+    {
+        "#": "673",
+        "no": "8973",
+        "romaji": "yūgata",
+        "kana": "ゆうがた",
+        "kanji": "夕方",
+        "meaning_mm": "ညနေခင်း"
+    },
+    {
+        "#": "674",
+        "no": "9002",
+        "romaji": "yūhan",
+        "kana": "ゆうはん",
+        "kanji": "夕飯",
+        "meaning_mm": "ညစာ"
+    },
+    {
+        "#": "675",
+        "no": "9006",
+        "romaji": "yūbinkyoku",
+        "kana": "ゆうびんきょく",
+        "kanji": "郵便局",
+        "meaning_mm": "စာတိုက်"
+    },
+    {
+        "#": "676",
+        "no": "9008",
+        "romaji": "sakuya",
+        "kana": "さくや",
+        "kanji": "昨夜",
+        "meaning_mm": "မနေ့ည"
+    },
+    {
+        "#": "677",
+        "no": "9011",
+        "romaji": "yūmei(na)",
+        "kana": "ゆうめい（な）",
+        "kanji": "有名（な）",
+        "meaning_mm": "ကျော်ကြားသော"
+    },
+    {
+        "#": "678",
+        "no": "9027",
+        "romaji": "yuki",
+        "kana": "ゆき",
+        "kanji": "雪",
+        "meaning_mm": "နှင်း"
+    },
+    {
+        "#": "679",
+        "no": "9041",
+        "romaji": "yukkuri/to",
+        "kana": "ゆっくり／と",
+        "kanji": "",
+        "meaning_mm": "တဖြည်းဖြည်းနဲ့"
+    },
+    {
+        "#": "680",
+        "no": "9066",
+        "romaji": "yoi",
+        "kana": "よい",
+        "kanji": "良い",
+        "meaning_mm": "ကောင်းသော"
+    },
+    {
+        "#": "681",
+        "no": "9076",
+        "romaji": "hachinichi",
+        "kana": "はちにち",
+        "kanji": "八日",
+        "meaning_mm": "၈ရက်"
+    },
+    {
+        "#": "682",
+        "no": "9114",
+        "romaji": "yōfuku",
+        "kana": "ようふく",
+        "kanji": "洋服",
+        "meaning_mm": "အနောက်တိုင်းဝတ်စုံ"
+    },
+    {
+        "#": "683",
+        "no": "9130",
+        "romaji": "yoku",
+        "kana": "よく",
+        "kanji": "",
+        "meaning_mm": "ကောင်းကောင်း၊မကြာခဏ"
+    },
+    {
+        "#": "684",
+        "no": "9146",
+        "romaji": "yoko",
+        "kana": "よこ",
+        "kanji": "横",
+        "meaning_mm": "ဘေး၊အနံ၊အလျားလိုက်"
+    },
+    {
+        "#": "685",
+        "no": "9168",
+        "romaji": "yonnichi",
+        "kana": "よんにち",
+        "kanji": "四日",
+        "meaning_mm": "လေးရက်"
+    },
+    {
+        "#": "686",
+        "no": "9171",
+        "romaji": "yottsu",
+        "kana": "よっつ",
+        "kanji": "四つ",
+        "meaning_mm": "လေးခု"
+    },
+    {
+        "#": "687",
+        "no": "9184",
+        "romaji": "yobu",
+        "kana": "よぶ",
+        "kanji": "呼ぶ",
+        "meaning_mm": "ခေါ်သည်"
+    },
+    {
+        "#": "688",
+        "no": "9195",
+        "romaji": "yomu",
+        "kana": "よむ",
+        "kanji": "読む",
+        "meaning_mm": "ဖတ်သည်"
+    },
+    {
+        "#": "689",
+        "no": "9205",
+        "romaji": "yoru",
+        "kana": "よる",
+        "kanji": "夜",
+        "meaning_mm": "ည"
+    },
+    {
+        "#": "690",
+        "no": "9210",
+        "romaji": "yowai",
+        "kana": "よわい",
+        "kanji": "弱い",
+        "meaning_mm": "အားနည်းသော"
+    },
+    {
+        "#": "691",
+        "no": "9215",
+        "romaji": "yon",
+        "kana": "よん",
+        "kanji": "四",
+        "meaning_mm": "လေး"
+    },
+    {
+        "#": "692",
+        "no": "9218",
+        "romaji": "raigetsu",
+        "kana": "らいげつ",
+        "kanji": "来月",
+        "meaning_mm": "လာမည့်လ"
+    },
+    {
+        "#": "693",
+        "no": "9219",
+        "romaji": "raishū",
+        "kana": "らいしゅう",
+        "kanji": "来週",
+        "meaning_mm": "လာမည့်အပတ်"
+    },
+    {
+        "#": "694",
+        "no": "9222",
+        "romaji": "raitā",
+        "kana": "ライター",
+        "kanji": "lighter",
+        "meaning_mm": "ဓာတ်မီးခြစ်"
+    },
+    {
+        "#": "695",
+        "no": "9224",
+        "romaji": "rainen",
+        "kana": "らいねん",
+        "kanji": "来年",
+        "meaning_mm": "လာမယ့်နှစ်"
+    },
+    {
+        "#": "696",
+        "no": "9231",
+        "romaji": "rajio",
+        "kana": "ラジオ",
+        "kanji": "radio",
+        "meaning_mm": "ရေဒီယို"
+    },
+    {
+        "#": "697",
+        "no": "9232",
+        "romaji": "rajikase",
+        "kana": "ラジカセ",
+        "kanji": "radio-cassette recorder",
+        "meaning_mm": "ရေဒီယိုကတ်ဆက်"
+    },
+    {
+        "#": "698",
+        "no": "9284",
+        "romaji": "rippa(na)",
+        "kana": "りっぱ（な）",
+        "kanji": "立派（な）",
+        "meaning_mm": "ခန့်ညားသော"
+    },
+    {
+        "#": "699",
+        "no": "9302",
+        "romaji": "ryūgakusei",
+        "kana": "りゅうがくせい",
+        "kanji": "留学生",
+        "meaning_mm": "ပညာတော်သင်ကျောင်းသား"
+    },
+    {
+        "#": "700",
+        "no": "9338",
+        "romaji": "ryōri(suru)",
+        "kana": "りょうり（する）",
+        "kanji": "料理（する）",
+        "meaning_mm": "ဟင်းလျာ"
+    },
+    {
+        "#": "701",
+        "no": "9345",
+        "romaji": "ryokō(suru)",
+        "kana": "りょこう（する）",
+        "kanji": "旅行（する）",
+        "meaning_mm": "ခရီးသွားခြင်း"
+    },
+    {
+        "#": "702",
+        "no": "9352",
+        "romaji": "ringo(ringo)",
+        "kana": "りんご（リンゴ）",
+        "kanji": "",
+        "meaning_mm": "ပန်းသီး"
+    },
+    {
+        "#": "703",
+        "no": "9368",
+        "romaji": "rei",
+        "kana": "れい",
+        "kanji": "例",
+        "meaning_mm": "ဥပမာ"
+    },
+    {
+        "#": "704",
+        "no": "9378",
+        "romaji": "reizōko",
+        "kana": "れいぞうこ",
+        "kanji": "冷蔵庫",
+        "meaning_mm": "ရေခဲသေတ္တာ"
+    },
+    {
+        "#": "705",
+        "no": "9390",
+        "romaji": "rekōdo",
+        "kana": "レコード",
+        "kanji": "record",
+        "meaning_mm": "မှတ်တမ်း၊ဓာတ်ပြား"
+    },
+    {
+        "#": "706",
+        "no": "9395",
+        "romaji": "resutoran",
+        "kana": "レストラン",
+        "kanji": "restaurant",
+        "meaning_mm": "စားသောက်ဆိုင်"
+    },
+    {
+        "#": "707",
+        "no": "9412",
+        "romaji": "renshū(suru)",
+        "kana": "れんしゅう（する）",
+        "kanji": "練習（する）",
+        "meaning_mm": "လေ့ကျင့်ခန်း"
+    },
+    {
+        "#": "708",
+        "no": "9425",
+        "romaji": "rōka",
+        "kana": "ろうか",
+        "kanji": "廊下",
+        "meaning_mm": "စင်္ကြန်"
+    },
+    {
+        "#": "709",
+        "no": "9440",
+        "romaji": "roku",
+        "kana": "ろく",
+        "kanji": "六",
+        "meaning_mm": "ခြောက်"
+    },
+    {
+        "#": "710",
+        "no": "9466",
+        "romaji": "waishatsu",
+        "kana": "ワイシャツ",
+        "kanji": "white shirt",
+        "meaning_mm": "ရှပ်အင်္ကျီ"
+    },
+    {
+        "#": "711",
+        "no": "9470",
+        "romaji": "wakai",
+        "kana": "わかい",
+        "kanji": "若い",
+        "meaning_mm": "ငယ်ရွယ်သော"
+    },
+    {
+        "#": "712",
+        "no": "9476",
+        "romaji": "wakaru",
+        "kana": "わかる",
+        "kanji": "分かる",
+        "meaning_mm": "နားလည်သဘောပေါက်သည်"
+    },
+    {
+        "#": "713",
+        "no": "9498",
+        "romaji": "wasureru",
+        "kana": "わすれる",
+        "kanji": "忘れる",
+        "meaning_mm": "မေ့သည်"
+    },
+    {
+        "#": "714",
+        "no": "9501",
+        "romaji": "watashi",
+        "kana": "わたし",
+        "kanji": "私",
+        "meaning_mm": "ကျွန်တော်၊ကျွန်မ"
+    },
+    {
+        "#": "715",
+        "no": "9502",
+        "romaji": "watasu",
+        "kana": "わたす",
+        "kanji": "渡す",
+        "meaning_mm": "ပေးကမ်းသည်"
+    },
+    {
+        "#": "716",
+        "no": "9504",
+        "romaji": "wataru",
+        "kana": "わたる",
+        "kanji": "渡る",
+        "meaning_mm": "ဖြတ်ကူးသည်"
+    },
+    {
+        "#": "717",
+        "no": "9528",
+        "romaji": "warui",
+        "kana": "わるい",
+        "kanji": "悪い",
+        "meaning_mm": "ဆိုးရွားသော၊အားနာသော"
+    },
+ 
 {
         "#": "1",
         "no": "3",
